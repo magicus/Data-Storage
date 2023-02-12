@@ -1,0 +1,928 @@
+{
+  "Abyssal Amulet": [
+    {
+      "type": "quest",
+      "name": "Eye of the Storm",
+      "details": {}
+    }
+  ]
+}
+{
+  "Abysso Galoshes": [
+    {
+      "type": "quest",
+      "name": "Beneath the Depths",
+      "details": {}
+    }
+  ]
+}
+{
+  "Aerolia Boots": [
+    {
+      "type": "quest",
+      "name": "Suspended Flowers",
+      "details": {}
+    }
+  ]
+}
+{
+  "Altum Spatium": [
+    {
+      "type": "quest",
+      "name": "???",
+      "details": {}
+    }
+  ]
+}
+{
+  "Avalanche": [
+    {
+      "type": "quest",
+      "name": "Fate of the Fallen",
+      "details": {}
+    }
+  ]
+}
+{
+  "Black Veil": [
+    {
+      "type": "quest",
+      "name": "The Maiden Tower",
+      "details": {
+        "information": "Olux Catacombs"
+      }
+    }
+  ]
+}
+{
+  "Bob's Battle Chestplate": [
+    {
+      "type": "quest",
+      "name": "Bob's Lost Soul",
+      "details": {}
+    }
+  ]
+}
+{
+  "Breathing Helmet I": [
+    {
+      "type": "quest",
+      "name": "Underwater",
+      "details": {}
+    }
+  ]
+}
+{
+  "Champion Boots": [
+    {
+      "type": "quest",
+      "name": "Tower of Ascension",
+      "details": {}
+    }
+  ]
+}
+{
+  "Champion Chestplate": [
+    {
+      "type": "quest",
+      "name": "Tower of Ascension",
+      "details": {}
+    }
+  ]
+}
+{
+  "Champion Helmet": [
+    {
+      "type": "quest",
+      "name": "Tower of Ascension",
+      "details": {}
+    }
+  ]
+}
+{
+  "Champion Leggings": [
+    {
+      "type": "quest",
+      "name": "Tower of Ascension",
+      "details": {}
+    }
+  ]
+}
+{
+  "Changeling's Chestplate": [
+    {
+      "type": "quest",
+      "name": "General's Orders",
+      "details": {}
+    }
+  ]
+}
+{
+  "Chef Hamsey's Apron": [
+    {
+      "type": "quest",
+      "name": "Recipe for Disaster",
+      "details": {
+        "information": "Brie's dish"
+      }
+    }
+  ]
+}
+{
+  "Cleaned Saccharum": [
+    {
+      "type": "quest",
+      "name": "Infested Plants",
+      "details": {
+        "description": "Quest Reward",
+        "screenshots": "https://imgur.com/eBcHih9"
+      }
+    }
+  ]
+}
+{
+  "Clearsight Spectacles": [
+    {
+      "type": "quest",
+      "name": "Finding the Light",
+      "details": {}
+    }
+  ]
+}
+{
+  "Climbing Helmet": [
+    {
+      "type": "quest",
+      "name": "Ice Nations",
+      "details": {}
+    }
+  ]
+}
+{
+  "Cloak of Luminosity": [
+    {
+      "type": "quest",
+      "name": "The Realm of Light",
+      "details": {}
+    }
+  ]
+}
+{
+  "Cosmic Vest": [
+    {
+      "type": "quest",
+      "name": "???",
+      "details": {}
+    }
+  ]
+}
+{
+  "Cosmic Visor": [
+    {
+      "type": "quest",
+      "name": "???",
+      "details": {}
+    }
+  ]
+}
+{
+  "Cosmic Walkers": [
+    {
+      "type": "quest",
+      "name": "???",
+      "details": {}
+    }
+  ]
+}
+{
+  "Cosmic Ward": [
+    {
+      "type": "quest",
+      "name": "???",
+      "details": {}
+    }
+  ]
+}
+{
+  "Dark Diadem": [
+    {
+      "type": "quest",
+      "name": "The Dark Descent",
+      "details": {}
+    }
+  ]
+}
+{
+  "Detective's Ring": [
+    {
+      "type": "quest",
+      "name": "Murder Mystery",
+      "details": {}
+    }
+  ]
+}
+{
+  "Dodegar's Ultimate Weapon": [
+    {
+      "type": "quest",
+      "name": "The Ultimate Weapon",
+      "details": {}
+    }
+  ]
+}
+{
+  "Double Vision": [
+    {
+      "type": "quest",
+      "name": "Realm of Light V",
+      "details": {}
+    }
+  ]
+}
+{
+  "Dragon Hide Plate": [
+    {
+      "type": "quest",
+      "name": "The Belly of the Beast",
+      "details": {}
+    }
+  ]
+}
+{
+  "Dragon's Eye Bracelet": [
+    {
+      "type": "quest",
+      "name": "Order Of The Grook",
+      "details": {
+        "information": "Picking \"Dragon Bone Wand\""
+      }
+    }
+  ]
+}
+{
+  "Draoi Fair": [
+    {
+      "type": "quest",
+      "name": "Order Of The Grook",
+      "details": {
+        "information": "Picking \"Avo Phoenix Wand\""
+      }
+    }
+  ]
+}
+{
+  "Dull Ancient Helmet": [
+    {
+      "type": "quest",
+      "name": "Purple and Blue",
+      "details": {}
+    }
+  ]
+}
+{
+  "Electro Mage's Boots": [
+    {
+      "type": "quest",
+      "name": "The Envoy Part II",
+      "details": {}
+    }
+  ]
+}
+{
+  "Empowered Ancient Helmet": [
+    {
+      "type": "quest",
+      "name": "Purple and Blue",
+      "details": {}
+    }
+  ]
+}
+{
+  "Essren's Coat": [
+    {
+      "type": "quest",
+      "name": "Potion Making",
+      "details": {}
+    }
+  ]
+}
+{
+  "Familiar Essence": [
+    {
+      "type": "quest",
+      "name": "Deja Vu",
+      "details": {
+        "description": "Quest Reward",
+        "screenshots": "https://imgur.com/lE1Mgdn"
+      }
+    }
+  ]
+}
+{
+  "Fiery Bow": [
+    {
+      "type": "quest",
+      "name": "Elemental Exercise",
+      "details": {}
+    }
+  ]
+}
+{
+  "Fiery Dagger": [
+    {
+      "type": "quest",
+      "name": "Elemental Exercise",
+      "details": {}
+    }
+  ]
+}
+{
+  "Fiery Relik": [
+    {
+      "type": "quest",
+      "name": "Elemental Exercise",
+      "details": {}
+    }
+  ]
+}
+{
+  "Fiery Spear": [
+    {
+      "type": "quest",
+      "name": "Elemental Exercise",
+      "details": {}
+    }
+  ]
+}
+{
+  "Fiery Wand": [
+    {
+      "type": "quest",
+      "name": "Elemental Exercise",
+      "details": {}
+    }
+  ]
+}
+{
+  "Fire Wire": [
+    {
+      "type": "quest",
+      "name": "From the Mountains",
+      "details": {}
+    }
+  ]
+}
+{
+  "First Steps": [
+    {
+      "type": "quest",
+      "name": "Enzan's brother",
+      "details": {}
+    }
+  ]
+}
+{
+  "Generator Amulet": [
+    {
+      "type": "quest",
+      "name": "Heart of Llevigar",
+      "details": {}
+    }
+  ]
+}
+{
+  "Generator Chip": [
+    {
+      "type": "quest",
+      "name": "Forbidden Prison",
+      "details": {
+        "description": "Obtained during the quest by pouring water over the generator in the generator room."
+      }
+    }
+  ]
+}
+{
+  "Gernald's Amulet": [
+    {
+      "type": "quest",
+      "name": "Underice",
+      "details": {
+        "information": "Gernald ending"
+      }
+    }
+  ]
+}
+{
+  "Gert Mask": [
+    {
+      "type": "quest",
+      "name": "The Hunger of Gerts Part 1",
+      "details": {}
+    }
+  ]
+}
+{
+  "Gerten Ritual Mask": [
+    {
+      "type": "quest",
+      "name": "The Hunger of Gerts Part 2",
+      "details": {}
+    }
+  ]
+}
+{
+  "Giant's Ring": [
+    {
+      "type": "quest",
+      "name": "The Bigger Picture",
+      "details": {}
+    }
+  ]
+}
+{
+  "Glaciate": [
+    {
+      "type": "quest",
+      "name": "Frost Bite",
+      "details": {}
+    }
+  ]
+}
+{
+  "Gnome's Ring": [
+    {
+      "type": "quest",
+      "name": "The Bigger Picture",
+      "details": {}
+    }
+  ]
+}
+{
+  "Greaves of Honor": [
+    {
+      "type": "quest",
+      "name": "An Iron Heart Part II",
+      "details": {
+        "information": "Hart ending"
+      }
+    }
+  ]
+}
+{
+  "Guard's Uniform": [
+    {
+      "type": "quest",
+      "name": "Forbidden Prison",
+      "details": {
+        "information": "Locker"
+      }
+    }
+  ]
+}
+{
+  "Helmet of Legends": [
+    {
+      "type": "quest",
+      "name": "Temple of the Legends",
+      "details": {}
+    }
+  ]
+}
+{
+  "Helmet of Shimmering Light": [
+    {
+      "type": "quest",
+      "name": "The Realm of Light",
+      "details": {}
+    }
+  ]
+}
+{
+  "Hide of Gregg'r": [
+    {
+      "type": "quest",
+      "name": "Green Skinned Trouble",
+      "details": {}
+    }
+  ]
+}
+{
+  "Inmate Outfit": [
+    {
+      "type": "quest",
+      "name": "The Forbidden Prison",
+      "details": {
+        "information": "Obtain during the quest"
+      }
+    }
+  ]
+}
+{
+  "Kaerynn's Body": [
+    {
+      "type": "quest",
+      "name": "Aldorei's Secret Part II",
+      "details": {}
+    }
+  ]
+}
+{
+  "Kaerynn's Mind": [
+    {
+      "type": "quest",
+      "name": "Aldorei's Secret Part II",
+      "details": {}
+    }
+  ]
+}
+{
+  "Lazarus' Brace": [
+    {
+      "type": "quest",
+      "name": "Lazarus Pit",
+      "details": {}
+    }
+  ]
+}
+{
+  "Mech Core": [
+    {
+      "type": "quest",
+      "name": "Desperate Metal",
+      "details": {}
+    }
+  ]
+}
+{
+  "Mummy's Rag": [
+    {
+      "type": "quest",
+      "name": "Wrath of the Mummy",
+      "details": {}
+    }
+  ]
+}
+{
+  "Old Treasure": [
+    {
+      "type": "quest",
+      "name": "Underwater",
+      "details": {
+        "description": "Quest Reward",
+        "screenshots": "https://imgur.com/q0edFt2"
+      }
+    }
+  ]
+}
+{
+  "Ominous Wind": [
+    {
+      "type": "quest",
+      "name": "One Thousand Meters Under",
+      "details": {}
+    }
+  ]
+}
+{
+  "Orc Mask": [
+    {
+      "type": "quest",
+      "name": "A Fighting Species",
+      "details": {}
+    }
+  ]
+}
+{
+  "Pendant of Prosperity": [
+    {
+      "type": "quest",
+      "name": "Fantastic Voyage",
+      "details": {}
+    }
+  ]
+}
+{
+  "Photon": [
+    {
+      "type": "quest",
+      "name": "Real of Light II",
+      "details": {}
+    }
+  ]
+}
+{
+  "Platinum Ingot": [
+    {
+      "type": "quest",
+      "name": "From the Bottom",
+      "details": {
+        "description": "Quest reward"
+      }
+    }
+  ]
+}
+{
+  "Psychomend Vest": [
+    {
+      "type": "quest",
+      "name": "Shattered Minds",
+      "details": {}
+    }
+  ]
+}
+{
+  "Purified Helmet of the Legends": [
+    {
+      "type": "quest",
+      "name": "Temple of the Legends",
+      "details": {}
+    }
+  ]
+}
+{
+  "Quartron's Eye": [
+    {
+      "type": "quest",
+      "name": "Rise of the Quartron",
+      "details": {}
+    }
+  ]
+}
+{
+  "Raging Wind": [
+    {
+      "type": "quest",
+      "name": "Beyond the Grave",
+      "details": {}
+    }
+  ]
+}
+{
+  "Ragon's Bracelet": [
+    {
+      "type": "quest",
+      "name": "Elemental Exercise",
+      "details": {}
+    }
+  ]
+}
+{
+  "Renda Langit": [
+    {
+      "type": "quest",
+      "name": "Order Of The Grook",
+      "details": {
+        "information": "Picking \"Sky Wood Rukh Wand\""
+      }
+    }
+  ]
+}
+{
+  "Restored Ancient Helmet": [
+    {
+      "type": "quest",
+      "name": "Purple and Blue",
+      "details": {}
+    }
+  ]
+}
+{
+  "Ring of Generosity": [
+    {
+      "type": "quest",
+      "name": "Memory Paranoia",
+      "details": {}
+    }
+  ]
+}
+{
+  "Ring of Rubies": [
+    {
+      "type": "quest",
+      "name": "Flight in Distress",
+      "details": {}
+    }
+  ]
+}
+{
+  "Royal Cake Slice": [
+    {
+      "type": "quest",
+      "name": "Cook Assistant",
+      "details": {
+        "description": "Quest Reward",
+        "screenshots": "https://imgur.com/Ksv4eSW"
+      }
+    }
+  ]
+}
+{
+  "Shameful Greaves": [
+    {
+      "type": "quest",
+      "name": "An Iron Heart Part II",
+      "details": {
+        "information": "Urelix ending"
+      }
+    }
+  ]
+}
+{
+  "Shattered Memory Shard": [
+    {
+      "type": "quest",
+      "name": "Recover the Past",
+      "details": {
+        "description": "Quest Reward",
+        "screenshots": "https://imgur.com/8YxebUf"
+      }
+    }
+  ]
+}
+{
+  "Skeletal Legs": [
+    {
+      "type": "quest",
+      "name": "Pit of the Dead",
+      "details": {}
+    }
+  ]
+}
+{
+  "Sky Chef's Apron": [
+    {
+      "type": "quest",
+      "name": "Recipe for Disaster",
+      "details": {
+        "information": "Frank's dish"
+      }
+    }
+  ]
+}
+{
+  "Smoldering Apron": [
+    {
+      "type": "quest",
+      "name": "Recipe for Disaster",
+      "details": {
+        "information": "Kale's dish"
+      }
+    }
+  ]
+}
+{
+  "Sodeta Boots": [
+    {
+      "type": "quest",
+      "name": "Lost Soles",
+      "details": {}
+    }
+  ]
+}
+{
+  "Sound Proof Earmuff": [
+    {
+      "type": "quest",
+      "name": "Hollow Sirene",
+      "details": {
+        "information": "Scientist's grave"
+      }
+    }
+  ]
+}
+{
+  "Sunblight Boots": [
+    {
+      "type": "quest",
+      "name": "Aldorei's Secret Part I",
+      "details": {}
+    }
+  ]
+}
+{
+  "The Master's Gi": [
+    {
+      "type": "quest",
+      "name": "Enter the Dojo",
+      "details": {}
+    }
+  ]
+}
+{
+  "The Queen's Headpiece": [
+    {
+      "type": "quest",
+      "name": "Royal Trials",
+      "details": {}
+    }
+  ]
+}
+{
+  "Therck's Chain": [
+    {
+      "type": "quest",
+      "name": "Enzan's Brother",
+      "details": {
+        "information": "Quest reward"
+      }
+    }
+  ]
+}
+{
+  "Thoracic": [
+    {
+      "type": "quest",
+      "name": "The Sewers of Ragni",
+      "details": {}
+    }
+  ]
+}
+{
+  "Treasure Boots": [
+    {
+      "type": "quest",
+      "name": "Underwater",
+      "details": {}
+    }
+  ]
+}
+{
+  "Troms Kid Badge": [
+    {
+      "type": "quest",
+      "name": "Out of my Mind",
+      "details": {}
+    }
+  ]
+}
+{
+  "Upgraded Orc Mask": [
+    {
+      "type": "quest",
+      "name": "A Fighting Species",
+      "details": {}
+    }
+  ]
+}
+{
+  "Veekhat's Horns": [
+    {
+      "type": "quest",
+      "name": "Cowfusion",
+      "details": {}
+    }
+  ]
+}
+{
+  "Veekhat's Udders": [
+    {
+      "type": "quest",
+      "name": "Cowfusion",
+      "details": {}
+    }
+  ]
+}
+{
+  "Vibrant Augment": [
+    {
+      "type": "quest",
+      "name": "Elemental Exercise",
+      "details": {
+        "description": "Quest Reward",
+        "screenshots": "https://imgur.com/oHHHOxi"
+      }
+    }
+  ]
+}
+{
+  "Vindicator": [
+    {
+      "type": "quest",
+      "name": "The Mercenary",
+      "details": {
+        "information": "Quest reward"
+      }
+    }
+  ]
+}
+{
+  "Waist Apron": [
+    {
+      "type": "quest",
+      "name": "Cook's assistant",
+      "details": {}
+    }
+  ]
+}
+{
+  "Weakening Catalyst": [
+    {
+      "type": "quest",
+      "name": "Potion Making",
+      "details": {
+        "description": "Quest Reward",
+        "screenshots": "https://imgur.com/K8zn9jl"
+      }
+    }
+  ]
+}

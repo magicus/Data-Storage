@@ -1,0 +1,2754 @@
+{
+  "7-Yottabyte Storage Component": [],
+  "Abdomen": [],
+  "Ablution": [],
+  "Abolition": [],
+  "Abrasion": [
+    {
+      "type": "raid",
+      "name": "The Canyon Colossus"
+    }
+  ],
+  "Abyss-Imbued Leggings": [],
+  "Abyssal Amulet": [],
+  "Abysso Galoshes": [],
+  "Accursed Effigy": [],
+  "Acevro": [],
+  "Achilles": [],
+  "Acid Magma": [],
+  "Acidic Blood": [],
+  "Acidic Remains": [],
+  "Acidic Solution": [
+    {
+      "type": "bossaltar",
+      "name": "Plague Laboratory"
+    }
+  ],
+  "Active Fireball": [],
+  "Adamastor's Faceplate": [
+    {
+      "type": "bossaltar",
+      "name": "Aerie of the Recluse"
+    }
+  ],
+  "Adaptive Tissue": [],
+  "Admiral": [],
+  "Advancement": [],
+  "Adventurer's Diary": [],
+  "Aerolia Boots": [],
+  "Affluence": [],
+  "Aged Golden Boots": [],
+  "Aged Golden Chestplate": [],
+  "Aged Golden Helmet": [],
+  "Aged Golden Leggings": [],
+  "Aged Medallion": [],
+  "Aged Tome": [],
+  "Agile Loop": [],
+  "Agullo Beak": [],
+  "Ahms' Remains": [],
+  "Air Relic Boots": [],
+  "Air Relic Bow": [],
+  "Air Relic Chestplate": [],
+  "Air Relic Daggers": [],
+  "Air Relic Helmet": [],
+  "Air Relic Leggings": [],
+  "Air Relic Relik": [],
+  "Air Relic Spear": [],
+  "Air Relic Wand": [],
+  "Air Sanctuary": [],
+  "Alga": [],
+  "Algaa": [],
+  "Algae Mat": [],
+  "Almuj Turban": [],
+  "Alnamar Meat": [],
+  "Altered Ash": [],
+  "Altitude Shard": [],
+  "Altum Spatium": [],
+  "Ambertoise Shell": [],
+  "Ambivalence": [],
+  "Amulet of Rejuvenation": [],
+  "Ancient Coins": [],
+  "Ancient Currency": [],
+  "Ancient Heart": [],
+  "Ancient Metal": [],
+  "Ancient Panel": [],
+  "Ancient Runic Relik": [],
+  "Andesite-Hewn Bow": [],
+  "Andesite-Hewn Relik": [],
+  "Andesite-Hewn Shears": [],
+  "Andesite-Hewn Spear": [],
+  "Andesite-Hewn Stick": [],
+  "Angelic Gem": [],
+  "Anima-Infused Cuirass": [],
+  "Anima-Infused Helmet": [],
+  "Anti-Static": [],
+  "Antipollen": [],
+  "Antique Metal": [],
+  "Antivenom": [],
+  "Anxiolytic": [
+    {
+      "type": "bossaltar",
+      "name": "Bottomless Pit"
+    }
+  ],
+  "Anya's Penumbra": [],
+  "Apple": [],
+  "Aqua Vitae": [
+    {
+      "type": "bossaltar",
+      "name": "Plague Laboratory"
+    }
+  ],
+  "Aquatic Beauty": [],
+  "Arakadicus' Body": [],
+  "Arcane Anomaly": [],
+  "Arcanic": [],
+  "Archaic Medallion": [],
+  "Argos": [],
+  "Armored Culottes": [],
+  "Ascension": [],
+  "Ashen Helm": [],
+  "Ashen Hide": [],
+  "Ashes": [],
+  "Ashstained Basalt": [],
+  "Aspect of the Void": [],
+  "Astral Alloy": [],
+  "Atmospheric Aspect": [],
+  "Autonomous Core": [],
+  "Avalanche": [],
+  "Average Golden Boots": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Average Golden Chestplate": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Average Golden Helmet": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Average Golden Leggings": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Azotar": [],
+  "Azure Blossom": [],
+  "Ba'al's Betrayal": [
+    {
+      "type": "discontinued",
+      "description": "No longer obtainable - Replaced by Takan's Treachery"
+    }
+  ],
+  "Back-Up Plan": [
+    {
+      "type": "bossaltar",
+      "name": "Altar of Sanctification"
+    }
+  ],
+  "Backstaff": [],
+  "Ball of Slime": [],
+  "Bamboo": [],
+  "Bandit Rations": [],
+  "Bandit's Bangle": [],
+  "Bandit's Knuckle": [],
+  "Bandit's Locket": [],
+  "Bandit's Ring": [],
+  "Bane": [],
+  "Bane of War": [],
+  "Barbaric Amulet": [],
+  "Barbed": [],
+  "Barkgraft": [],
+  "Bat Ear": [],
+  "Bat Heart": [],
+  "Battalion": [],
+  "Battle Leggings": [],
+  "Battle Staff": [],
+  "Beak of the Nivlan Beauty": [],
+  "Bear Body": [],
+  "Bear Head": [
+    {
+      "type": "discontinued",
+      "description": "Replaced by Bear Mask"
+    }
+  ],
+  "Bear Mask": [],
+  "Beastial Viscera": [],
+  "Beef Tongue": [
+    {
+      "type": "bossaltar",
+      "name": "Bovine Barn"
+    }
+  ],
+  "Beetle Aegis": [],
+  "Big Jawbreaker": [],
+  "Binding Brace": [
+    {
+      "type": "bossaltar",
+      "name": "Prison of Souls"
+    }
+  ],
+  "Bionic Fiber": [],
+  "Black Amaranth": [],
+  "Black Boots": [],
+  "Black Cap": [],
+  "Black Catalyst": [],
+  "Black Hole": [],
+  "Black Ice": [],
+  "Black Mask": [],
+  "Black Pants": [],
+  "Black Ripper": [],
+  "Black Steel": [],
+  "Black Sulphur": [
+    {
+      "type": "bossaltar",
+      "name": "Sunrise Canyon"
+    }
+  ],
+  "Black Tunic": [],
+  "Black Veil": [],
+  "Black Wand": [],
+  "Blade of Instinct": [],
+  "Blade of Shade": [
+    {
+      "type": "bossaltar",
+      "name": "Challenge of the Blades"
+    }
+  ],
+  "Blasphemy": [],
+  "Blaze Powder": [],
+  "Blazing Fireball": [],
+  "Blessed Heart": [],
+  "Blessing": [],
+  "Blighted Brain": [],
+  "Blighted Skull": [],
+  "Blitzen": [],
+  "Bloated Artery": [],
+  "Blood Moon": [],
+  "Blood of the Nivlan Beauty": [],
+  "Blood-Tinted Necklace": [],
+  "Bloodstained Remains": [],
+  "Bloodweb": [],
+  "Blue Ornament": [],
+  "Blue Team Boots": [],
+  "Blue Team Chestplate": [],
+  "Blue Team Helmet": [],
+  "Blue Team Leggings": [],
+  "Boar Meat": [],
+  "Bob's Battle Chestplate": [],
+  "Bob's Mythic Bow": [],
+  "Bob's Mythic Daggers": [],
+  "Bob's Mythic Spear": [],
+  "Bob's Mythic Wand": [],
+  "Bob's Sacrifice": [],
+  "Bob's Tear": [],
+  "Bonder": [
+    {
+      "type": "bossaltar",
+      "name": "The Orange Wybel"
+    }
+  ],
+  "Bone Ash": [],
+  "Bone Meal": [],
+  "Boomslang": [],
+  "Borange Fluff": [
+    {
+      "type": "bossaltar",
+      "name": "The Orange Wybel"
+    }
+  ],
+  "Boreal-Patterned Aegis": [],
+  "Boreal-Patterned Crown": [],
+  "Bottled Decay": [],
+  "Bottled Fairy": [],
+  "Bottled Thunderstorm": [],
+  "Boundary": [],
+  "Bountiful": [],
+  "Bovine Cuff": [],
+  "Brace of the Ninth": [],
+  "Brainfreeze": [],
+  "Braker": [
+    {
+      "type": "bossaltar",
+      "name": "The Orange Wybel"
+    }
+  ],
+  "Brass Choker": [],
+  "Brass Leg Plates": [],
+  "Braveheart": [],
+  "Breakbore": [
+    {
+      "type": "bossaltar",
+      "name": "Geyser Pit"
+    }
+  ],
+  "Breathing Helmet I": [],
+  "Breathing Helmet II": [],
+  "Breezehands": [],
+  "Bright Petal": [],
+  "Brilliant Diamond Boots": [],
+  "Brilliant Diamond Chestplate": [],
+  "Brilliant Diamond Helmet": [],
+  "Brilliant Diamond Leggings": [],
+  "Brise": [],
+  "Broken Antic Bead": [],
+  "Broken Dagger": [],
+  "Broken Helmet": [],
+  "Broken Pick": [],
+  "Broken Sandust": [],
+  "Broken Steel Blade": [],
+  "Broken Steel Hook": [],
+  "Bronze Basic Bracelet": [],
+  "Bronze Basic Necklace": [],
+  "Bronze Basic Ring": [],
+  "Brown Mushroom": [],
+  "Bug Parts": [],
+  "Builder's Boots": [
+    {
+      "type": "unobtainable",
+      "description": "Event"
+    }
+  ],
+  "Builder's Breastplate": [
+    {
+      "type": "unobtainable",
+      "description": "Event"
+    }
+  ],
+  "Builder's Helmet": [
+    {
+      "type": "unobtainable",
+      "description": "Event"
+    }
+  ],
+  "Builder's Trousers": [
+    {
+      "type": "unobtainable",
+      "description": "Event"
+    }
+  ],
+  "Burial Talisman": [],
+  "Burning Soul": [],
+  "Burnt Skull": [],
+  "Bush Mask": [],
+  "Butterfly": [],
+  "Byte": [],
+  "Cacophony": [
+    {
+      "type": "raid",
+      "name": "Orphion's Nexus of Light"
+    }
+  ],
+  "Calamaro's Bow": [],
+  "Calamaro's Relik": [],
+  "Calamaro's Spear": [],
+  "Calamaro's Staff": [],
+  "Calamaro's Sword": [],
+  "Calcified Ligament": [],
+  "Calmed Thunder": [],
+  "Calor": [],
+  "Candy Button": [],
+  "Candy Cane": [],
+  "Canyon Parsley": [],
+  "Canyon Strider": [],
+  "Capsid Frame": [
+    {
+      "type": "bossaltar",
+      "name": "Magmastream Core"
+    }
+  ],
+  "Captain's Glass": [],
+  "Captain's Razor": [],
+  "Carapace Fragment": [],
+  "Carbon Weave": [],
+  "Cat Food": [],
+  "Cat Tail": [],
+  "Cataratite": [],
+  "Cathedral": [],
+  "Cattail": [],
+  "Celsius": [],
+  "Centipede": [],
+  "Cephalothorax": [],
+  "Cerid's Ingenuity": [
+    {
+      "type": "unobtainable",
+      "description": "Unobtainable"
+    }
+  ],
+  "Chain Loop": [],
+  "Champion Boots": [],
+  "Champion Chestplate": [],
+  "Champion Helmet": [],
+  "Champion Leggings": [],
+  "Changeling's Chestplate": [],
+  "Chaos-Woven Greaves": [],
+  "Chaotic Amulet": [],
+  "Chaotic Embers": [],
+  "Charcoal": [],
+  "Charger": [],
+  "Charity": [],
+  "Charred Bone": [],
+  "Charred Carapace": [],
+  "Chaser": [],
+  "Chasseur": [],
+  "Chef Hamsey's Apron": [],
+  "Cherry Sapling": [],
+  "Chipped Glitz": [],
+  "Chipped Leather Boots": [],
+  "Chipped Leather Cap": [],
+  "Chipped Leather Pants": [],
+  "Chipped Leather Tunic": [],
+  "Chipped Quartz": [],
+  "Chitin Plate": [],
+  "Chromatic Bloom": [],
+  "Ciel": [],
+  "Cinderchain": [],
+  "Cinders": [],
+  "Cinfras Souvenir T-Shirt": [],
+  "Clawctus": [],
+  "Cleaned Saccharum": [],
+  "Clearsight Spectacles": [],
+  "Climbing Helmet": [],
+  "Cloak of Luminosity": [],
+  "Clock Amulet": [],
+  "Clock Boots": [],
+  "Clock Helm": [],
+  "Clock Leggings": [],
+  "Clock Mail": [],
+  "Clockwork": [],
+  "Clockwork Ring": [],
+  "Closure": [],
+  "Cloudwalkers": [],
+  "Cloudy Diamond Boots": [],
+  "Cloudy Diamond Chestplate": [],
+  "Cloudy Diamond Helmet": [],
+  "Cloudy Diamond Leggings": [],
+  "Clunderthap": [],
+  "Coagulated Clot": [],
+  "Coagulated Soulmass": [],
+  "Coal Duster": [],
+  "Coalescence": [
+    {
+      "type": "bossaltar",
+      "name": "Bottomless Pit"
+    }
+  ],
+  "Coastal Sand": [],
+  "Coastal Shell": [],
+  "Cocoa Caps": [],
+  "Cold Snap": [],
+  "Colossus' Shard": [],
+  "Comet": [],
+  "Compiler": [],
+  "Composite Shooter": [],
+  "Compressed Aspect": [],
+  "Comrade": [],
+  "Condensed Darkness": [],
+  "Condor Feather": [],
+  "Conduit of Spirit": [],
+  "Confusing Cap": [],
+  "Congealed Slime": [],
+  "Conifer": [],
+  "Conscription Letter": [],
+  "Constrict Collar": [
+    {
+      "type": "bossaltar",
+      "name": "Prison of Souls"
+    }
+  ],
+  "Contamination": [],
+  "Contest Wynner Cap": [
+    {
+      "type": "discontinued",
+      "description": "Event"
+    }
+  ],
+  "Contorted Stone": [],
+  "Contrast": [],
+  "Coolant": [],
+  "Coral Ring": [],
+  "Corbys Innards": [],
+  "Corkian Jet Boots": [],
+  "Corkian War Pick": [],
+  "Corkuff": [],
+  "Corn Husk": [
+    {
+      "type": "bossaltar",
+      "name": "Bovine Barn"
+    }
+  ],
+  "Cornucopia": [],
+  "Corpse": [],
+  "Corroded Chunk": [],
+  "Corrupt Chain": [],
+  "Corrupted Beef": [],
+  "Corrupted Fragment": [],
+  "Corrupted Ichor": [],
+  "Corrupted Nii Mukluk": [],
+  "Corrupted Nii Plate": [],
+  "Corrupted Nii Shako": [],
+  "Corrupted Uth Belt": [],
+  "Corrupted Uth Plume": [],
+  "Corrupted Uth Sandals": [],
+  "Corrupted Witherhead's Bow": [],
+  "Corruption Shard": [],
+  "Cortrich Eggs": [],
+  "Cosmic Vest": [],
+  "Cosmic Visor": [],
+  "Cosmic Walkers": [],
+  "Cosmic Ward": [],
+  "Courser": [],
+  "Coyote Fang": [],
+  "Cracheur": [],
+  "Cracked Geode": [],
+  "Cracked Iron Boots": [],
+  "Cracked Iron Chestplate": [],
+  "Cracked Iron Helmet": [],
+  "Cracked Iron Leggings": [],
+  "Cracked Skin": [],
+  "Cracked Stonehall": [],
+  "Cranial Panel": [],
+  "Crawler Eye": [],
+  "Crawler Sludge": [],
+  "Crawler Web": [],
+  "Creeper Mask": [],
+  "Creepvine": [],
+  "Creepvine Cluster": [],
+  "Criistal": [],
+  "Crocodile": [],
+  "Crook's March": [],
+  "Crossbolt": [
+    {
+      "type": "bossaltar",
+      "name": "Rotten Passage"
+    }
+  ],
+  "Crumbling Skull": [],
+  "Crumbly Rock": [],
+  "Crying Heart": [],
+  "Crystal Coil": [
+    {
+      "type": "bossaltar",
+      "name": "Magmastream Core"
+    }
+  ],
+  "Crystal Dust": [],
+  "Crystal-Blend Pendant": [],
+  "Crystalline Growth": [],
+  "Crystallized Organ": [],
+  "Cupid": [],
+  "Current": [],
+  "Curse Gland": [],
+  "Cursed Ashes": [],
+  "Cursed Jackboots": [],
+  "Cursed Venom Sac": [],
+  "Cursed Wings": [],
+  "Cuthroat": [],
+  "Cyclone Blue Leaves": [],
+  "Cyclops Eye": [],
+  "Damnation": [],
+  "Dancer": [],
+  "Dark Band": [],
+  "Dark Diadem": [],
+  "Dark Energy": [],
+  "Dark Iris": [],
+  "Dark Matter": [],
+  "Darkiron Aegis": [],
+  "Dasher": [],
+  "Dead Bee": [],
+  "Dead Naval Shard": [],
+  "Dead Samurai's Plate": [],
+  "Deadeye": [
+    {
+      "type": "bossaltar",
+      "name": "Sunrise Canyon"
+    }
+  ],
+  "Deark": [],
+  "Death Whistle Leaf": [],
+  "Death's Reach": [],
+  "Decay Burner": [],
+  "Decaying Arteries": [],
+  "Decaying Heart": [],
+  "Decaying Skin": [],
+  "Deep Ice Core": [],
+  "Defective Circuits": [],
+  "Defender": [],
+  "Defender's Stone": [],
+  "Defibrillator": [],
+  "Defiled Luxroot": [],
+  "Defishious": [],
+  "Demonic Ashes": [],
+  "Demonic Blood": [],
+  "Demonio": [],
+  "Dense Void Hole Chunk": [],
+  "Depreciating Flesh": [],
+  "Depth": [],
+  "Depth's Gem": [],
+  "Dernic Parasite": [],
+  "Desert Fossil": [],
+  "Desperation": [],
+  "Destrortur": [],
+  "Destructor": [],
+  "Detective's Ring": [],
+  "Diabloviento": [],
+  "Diamond Blade": [],
+  "Diamond Cuff": [],
+  "Diamond Fiber Bracelet": [],
+  "Diamond Fiber Necklace": [],
+  "Diamond Fiber Ring": [],
+  "Diamond Fusion Bracelet": [],
+  "Diamond Fusion Necklace": [],
+  "Diamond Fusion Ring": [],
+  "Diamond Hydro Bracelet": [],
+  "Diamond Hydro Necklace": [],
+  "Diamond Hydro Ring": [],
+  "Diamond Solar Bracelet": [],
+  "Diamond Solar Necklace": [],
+  "Diamond Solar Ring": [],
+  "Diamond Static Bracelet": [],
+  "Diamond Static Necklace": [],
+  "Diamond Static Ring": [],
+  "Diamond Steam Bracelet": [],
+  "Diamond Steam Necklace": [],
+  "Diamond Steam Ring": [],
+  "Digested Corpse": [],
+  "Digestible Fungi": [],
+  "Dilation": [],
+  "Dim Diamond Boots": [],
+  "Dim Diamond Chestplate": [],
+  "Dim Diamond Helmet": [],
+  "Dim Diamond Leggings": [],
+  "Diminished": [],
+  "Diminution": [],
+  "Dinosaur": [],
+  "Discharge": [],
+  "Diseased Fluids": [],
+  "Dissociation": [
+    {
+      "type": "bossaltar",
+      "name": "Bottomless Pit"
+    }
+  ],
+  "Disturbed Aspect": [],
+  "Diving Boots I": [
+    {
+      "type": "unobtainable",
+      "description": "Unobtainable"
+    }
+  ],
+  "Diving Boots II": [
+    {
+      "type": "unobtainable",
+      "description": "Unobtainable"
+    }
+  ],
+  "Diving Boots III": [
+    {
+      "type": "unobtainable",
+      "description": "Unobtainable"
+    }
+  ],
+  "Dodegar's Ultimate Weapon": [],
+  "Dominant Force": [],
+  "Dondasch": [
+    {
+      "type": "bossaltar",
+      "name": "Aerie of the Recluse"
+    }
+  ],
+  "Donner": [],
+  "Doodad": [],
+  "Doom Stone": [],
+  "Double Vision": [],
+  "Double-Edge": [],
+  "Douglas Fir": [],
+  "Draconic Bone Marrow": [],
+  "Dragon Aura": [],
+  "Dragon Hide Plate": [],
+  "Dragon Horned Helmet": [],
+  "Dragon's Eye Bracelet": [],
+  "Dragonling Egg": [],
+  "Dragonling Scale": [],
+  "Dragonspit": [],
+  "Dragster": [],
+  "Dragulj Boots": [],
+  "Drain": [],
+  "Drained Bone": [],
+  "Draoi Fair": [],
+  "Dried Gill": [],
+  "Dried Kelp": [],
+  "Drought Savior": [],
+  "Droughted Amulet": [],
+  "Dry Bone": [],
+  "Dry Seeds": [],
+  "Drywind": [],
+  "Dual": [],
+  "Dujgon Warrior Chestplate": [],
+  "Dujgon Warrior Hammer": [],
+  "Dull Ancient Helmet": [],
+  "Dune Beast Jaw": [],
+  "Dune Storm": [],
+  "Dupliblaze": [],
+  "Durum's Serenity": [
+    {
+      "type": "bossaltar",
+      "name": "Bovine Barn"
+    }
+  ],
+  "Dust Skaters": [],
+  "Dying Lobelia": [],
+  "Earth Drift": [],
+  "Earth Relic Boots": [],
+  "Earth Relic Bow": [],
+  "Earth Relic Chestplate": [],
+  "Earth Relic Daggers": [],
+  "Earth Relic Helmet": [],
+  "Earth Relic Leggings": [],
+  "Earth Relic Relik": [],
+  "Earth Relic Spear": [],
+  "Earth Relic Wand": [],
+  "Earth Sanctuary": [],
+  "Earthlink": [],
+  "Earthly Aura": [],
+  "Earthly Pebble": [],
+  "Eden-Blessed Guards": [],
+  "Eel Spear": [],
+  "Egg": [],
+  "Ehoole Drakeskin": [],
+  "Eidolon": [
+    {
+      "type": "bossaltar",
+      "name": "Aerie of the Recluse"
+    }
+  ],
+  "Elder Oak Roots": [],
+  "Electro Mage's Boots": [],
+  "Electroplasm": [],
+  "Elemental Crystal": [],
+  "Elephant Toenail": [],
+  "Elephelk Trunk": [],
+  "Elf Cap": [],
+  "Elf Pants": [],
+  "Elf Robe": [],
+  "Elf Shoes": [],
+  "Elysium-Engraved Aegis": [],
+  "Emerald Knife": [],
+  "Emerald Pendant": [],
+  "Emerald-Tinted Charm": [],
+  "Empowered Ancient Helmet": [],
+  "Empty Casings": [
+    {
+      "type": "bossaltar",
+      "name": "Sunrise Canyon"
+    }
+  ],
+  "Enchanted Chain Link": [],
+  "Energetic Aura": [],
+  "Energy Loop": [],
+  "Enerxia": [],
+  "Engored Oculus": [],
+  "Engraved Tablet": [],
+  "Enhanced Behaviour Microchip": [],
+  "Enhanced Coalwalkers": [],
+  "Enhanced Copper Plate": [],
+  "Enhanced Duskshield": [],
+  "Enhanced Dynamics Microchip": [],
+  "Enhanced Pathfinding Microchip": [],
+  "Enhanced Physics Microchip": [],
+  "Enhanced Pickpockets": [],
+  "Enhanced Post-Processing Microchip": [],
+  "Enhanced Potential Microchip": [],
+  "Enraged Soul": [],
+  "Ensa's Faith": [],
+  "Entamyx": [],
+  "Eradian Full Helm": [],
+  "Erratic Aspect": [],
+  "Essence of Dusk": [],
+  "Essren's Coat": [],
+  "Eternal Flame": [],
+  "Etheric Fern": [],
+  "Evapar": [],
+  "Evergreen": [],
+  "Evolving Spores": [],
+  "Expelled Shrapnel": [],
+  "Eye of The Beast": [
+    {
+      "type": "bossaltar",
+      "name": "Prison of Souls"
+    }
+  ],
+  "Eyes on All": [
+    {
+      "type": "raid",
+      "name": "Nest of the Grootslangs"
+    }
+  ],
+  "Factory Helmet": [
+    {
+      "type": "discontinued",
+      "description": "This item was obtainable during \"An Iron Heart Part I\" quest. Since update 1.20 the quest has been reworked and you can't obtain the helmet anymore."
+    }
+  ],
+  "Fairy Dust": [],
+  "Fake Tooth": [],
+  "Fallbreakers": [],
+  "Familiar Essence": [],
+  "Famine": [],
+  "Fanatic": [],
+  "Fancy Pelt": [],
+  "Fangs": [],
+  "Farcor's Trust": [],
+  "Feather of Grace": [],
+  "Fellowship": [],
+  "Female Pirate Wig": [],
+  "Festering Face": [],
+  "Fetish": [],
+  "Field": [],
+  "Fiery Aura": [],
+  "Fiery Bow": [],
+  "Fiery Dagger": [],
+  "Fiery Essence": [],
+  "Fiery Relik": [],
+  "Fiery Spear": [],
+  "Fiery Wand": [],
+  "Fighting Stick": [],
+  "Filter Mask": [],
+  "Final Compulsion": [],
+  "Fir Needle": [],
+  "Fire Pearl": [],
+  "Fire Relic Boots": [],
+  "Fire Relic Bow": [],
+  "Fire Relic Chestplate": [],
+  "Fire Relic Daggers": [],
+  "Fire Relic Helmet": [],
+  "Fire Relic Leggings": [],
+  "Fire Relic Relik": [],
+  "Fire Relic Spear": [],
+  "Fire Relic Wand": [],
+  "Fire Sanctuary": [],
+  "Fire Wire": [],
+  "Firefly Dust": [],
+  "Firestarter": [],
+  "Firewood": [],
+  "First Steps": [],
+  "Fish Scales": [],
+  "Fish Tail": [],
+  "Fisher's Mail": [],
+  "Fishing Hook": [],
+  "Flameheart": [],
+  "Flaming War Spear": [],
+  "Flashfire Gauntlet": [],
+  "Flashfire Knuckle": [],
+  "Flashfrost": [],
+  "Flashstep": [],
+  "Flawed Golden Chestplate": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Flawed Golden Leggings": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Flawed Leather Boots": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Flawed Leather Cap": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Flawless Chain Boots": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Flawless Chain Chestplate": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Flawless Chain Helmet": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Flawless Chain Leggings": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Flawless Granite Bow": [],
+  "Flawless Granite Dagger": [],
+  "Flawless Granite Relik": [],
+  "Flawless Granite Shears": [],
+  "Flawless Granite Spear": [],
+  "Flawless Granite Stick": [],
+  "Flawless Granite Wand": [],
+  "Flawless Oak Bow": [],
+  "Flawless Oak Relik": [],
+  "Flawless Oak Shears": [],
+  "Flawless Oak Spear": [],
+  "Flawless Oak Stick": [],
+  "Flesh-forged Circuit": [],
+  "Flexing Chain": [],
+  "Flow of Fate": [],
+  "Fluffy Fur": [],
+  "Flugsvamp Cap": [],
+  "Flytrap Fangs": [],
+  "Foehn Wind": [],
+  "Force Loop": [],
+  "Forest Aconite": [],
+  "Forest Web": [],
+  "Foreword": [],
+  "Forge Stoker": [],
+  "Forge's Shock": [],
+  "Forgotten Axe": [],
+  "Forgotten Pickaxe": [],
+  "Formation": [],
+  "Foul Fairy Dust": [],
+  "Foul Fluid": [],
+  "Foundation": [],
+  "Fragmentation": [
+    {
+      "type": "bossaltar",
+      "name": "Bottomless Pit"
+    }
+  ],
+  "Frankenstein": [],
+  "Frankincense": [],
+  "Fresh Bone": [],
+  "Fresh Game": [],
+  "Fresh Water": [],
+  "Frog": [],
+  "Frost": [],
+  "Frostbitten Flesh": [],
+  "Frostburn": [],
+  "Frozen Earth": [],
+  "Frozen Ghostly Essence": [],
+  "Fruma Imported Boots": [],
+  "Fulminate Staff": [],
+  "Fuming Lava Rock": [],
+  "Fungi Spores": [],
+  "Fuunyet": [],
+  "GM's Boots": [
+    {
+      "type": "unobtainable",
+      "description": "Event"
+    }
+  ],
+  "GM's Breastplate": [
+    {
+      "type": "unobtainable",
+      "description": "Event"
+    }
+  ],
+  "GM's Helmet": [
+    {
+      "type": "unobtainable",
+      "description": "Event"
+    }
+  ],
+  "GM's Trousers": [
+    {
+      "type": "unobtainable",
+      "description": "Event"
+    }
+  ],
+  "Gaea-Hewn Boots": [],
+  "Gale's Freedom": [],
+  "Gale's Sight": [],
+  "Galvanic Stone": [],
+  "Gaping Cavity": [],
+  "Garland": [],
+  "Garoth's Hope": [],
+  "Gathering Axe T1": [],
+  "Gathering Axe T10": [],
+  "Gathering Axe T11": [],
+  "Gathering Axe T12": [],
+  "Gathering Axe T2": [],
+  "Gathering Axe T3": [],
+  "Gathering Axe T4": [],
+  "Gathering Axe T5": [],
+  "Gathering Axe T6": [],
+  "Gathering Axe T7": [],
+  "Gathering Axe T8": [],
+  "Gathering Axe T9": [],
+  "Gathering Hoe T1": [],
+  "Gathering Hoe T10": [],
+  "Gathering Hoe T11": [],
+  "Gathering Hoe T12": [],
+  "Gathering Hoe T2": [],
+  "Gathering Hoe T3": [],
+  "Gathering Hoe T4": [],
+  "Gathering Hoe T5": [],
+  "Gathering Hoe T6": [],
+  "Gathering Hoe T7": [],
+  "Gathering Hoe T8": [],
+  "Gathering Hoe T9": [],
+  "Gathering Pickaxe T1": [],
+  "Gathering Pickaxe T10": [],
+  "Gathering Pickaxe T11": [],
+  "Gathering Pickaxe T12": [],
+  "Gathering Pickaxe T2": [],
+  "Gathering Pickaxe T3": [],
+  "Gathering Pickaxe T4": [],
+  "Gathering Pickaxe T5": [],
+  "Gathering Pickaxe T6": [],
+  "Gathering Pickaxe T7": [],
+  "Gathering Pickaxe T8": [],
+  "Gathering Pickaxe T9": [],
+  "Gathering Rod T1": [],
+  "Gathering Rod T10": [],
+  "Gathering Rod T11": [],
+  "Gathering Rod T12": [],
+  "Gathering Rod T2": [],
+  "Gathering Rod T3": [],
+  "Gathering Rod T4": [],
+  "Gathering Rod T5": [],
+  "Gathering Rod T6": [],
+  "Gathering Rod T7": [],
+  "Gathering Rod T8": [],
+  "Gathering Rod T9": [],
+  "Gavel Imported Bow": [],
+  "Gaze from the Snowbank": [],
+  "Gaze of Darkness": [],
+  "Gear Grinder": [],
+  "Gelatinous Slime Chunk": [],
+  "Generator Amulet": [],
+  "Generator Chip": [],
+  "Genetor": [],
+  "Gernald's Amulet": [],
+  "Gert Bangswing Manypointystick": [],
+  "Gert Bumpstump Legcovercloth": [],
+  "Gert Mask": [],
+  "Gert Rock Smashbanger": [],
+  "Gert Shakestomper Toefeet": [],
+  "Gert Shootstick Tossflinger": [],
+  "Gert Skin": [],
+  "Gert Super Special Magic Ultistick": [],
+  "Gert Swingpoke Cuttyrock": [],
+  "Gert Veryhard Chestclothes": [],
+  "Gert Whooshy Bonkpole": [],
+  "Gerten Ritual Mask": [],
+  "Ghostly Essence": [],
+  "Ghostly Membrane": [],
+  "Ghostly Plume": [],
+  "Ghoul": [],
+  "Giant's Ring": [],
+  "Gift of the Magi": [],
+  "Gigabyte": [],
+  "Gilded Bark": [],
+  "Glacial Anomaly": [],
+  "Glaciate": [],
+  "Glimmer": [],
+  "Glimmering Coin": [],
+  "Glittering Silt": [],
+  "Gloomy Orb": [],
+  "Glow Bulb Seeds": [],
+  "Glowing Scales": [],
+  "Glowing Tree Sap": [],
+  "Gnome's Ring": [],
+  "Gnomish Topper": [
+    {
+      "type": "unobtainable",
+      "description": "Unobtainable"
+    }
+  ],
+  "Goblin Arm Bracer": [],
+  "Goblin Cloak": [],
+  "Goblin Hex Focus": [],
+  "Goblin Hood": [],
+  "Goblin Luck Charm": [],
+  "Goblin Runners": [],
+  "Goblin Tooth": [],
+  "Goblin Trinket": [],
+  "Goblin-Silver Ring": [],
+  "Gold": [],
+  "Gold Bar": [],
+  "Gold Digger": [],
+  "Gold Fiber Bracelet": [],
+  "Gold Fiber Necklace": [],
+  "Gold Fiber Ring": [],
+  "Gold Fusion Bracelet": [],
+  "Gold Fusion Necklace": [],
+  "Gold Fusion Ring": [],
+  "Gold Hydro Bracelet": [],
+  "Gold Hydro Necklace": [],
+  "Gold Hydro Ring": [],
+  "Gold Nugget": [],
+  "Gold Solar Bracelet": [],
+  "Gold Solar Necklace": [],
+  "Gold Solar Ring": [],
+  "Gold Static Bracelet": [],
+  "Gold Static Necklace": [],
+  "Gold Static Ring": [],
+  "Gold Steam Bracelet": [],
+  "Gold Steam Necklace": [],
+  "Gold Steam Ring": [],
+  "Gold Tooth": [],
+  "Golden Avia Feather": [],
+  "Golden Coin": [],
+  "Golden Root": [],
+  "Golden Scarab": [],
+  "Golem Gauntlet": [],
+  "Golemlus Core": [],
+  "Gollier Iron": [],
+  "Granite Plate": [],
+  "Grave Digger": [],
+  "Greaves of Honor": [],
+  "Green Foot": [],
+  "Green Opal": [],
+  "Green Ornament": [],
+  "Green Scale": [],
+  "Greenhoof": [
+    {
+      "type": "bossaltar",
+      "name": "Bovine Barn"
+    }
+  ],
+  "Grey Cloud": [],
+  "Greysmith": [],
+  "Gritty Rocks": [],
+  "Grook Feather": [],
+  "Grounder": [],
+  "Growth": [],
+  "Guard Spear": [],
+  "Guard's Uniform": [],
+  "Guardian Loop": [],
+  "Gunkfueled Core": [],
+  "Gunpowder": [],
+  "Gylia Essence": [],
+  "Gysdep": [],
+  "Halation": [],
+  "Hallowynn Mask": [
+    {
+      "type": "discontinued",
+      "description": "Event"
+    }
+  ],
+  "Hard Leather Boots": [],
+  "Hard Leather Cap": [],
+  "Hard Leather Leggings": [],
+  "Hard Leather Tunic": [],
+  "Hardcore": [],
+  "Hardened Magma": [],
+  "Hardened Mandible": [],
+  "Haros' Broken Badge": [
+    {
+      "type": "bossaltar",
+      "name": "Rotten Passage"
+    }
+  ],
+  "Haros' Oar": [
+    {
+      "type": "bossaltar",
+      "name": "Rotten Passage"
+    }
+  ],
+  "Harpoon": [],
+  "Harpy Bone": [],
+  "Harpy Wing": [],
+  "Hashr Claw": [],
+  "Hatchling Remnant": [],
+  "Heart Piercer": [],
+  "Heartbreak": [],
+  "Hearthfire": [],
+  "Heat Sink": [],
+  "Heavy Aegis": [],
+  "Hellish Cinders": [],
+  "Helm Splitter": [
+    {
+      "type": "bossaltar",
+      "name": "Altar of Sanctification"
+    }
+  ],
+  "Helmet of Legends": [],
+  "Helmet of Shimmering Light": [],
+  "Hembwal": [],
+  "Hephaestus-Forged Greaves": [],
+  "Hephaestus-Forged Sabatons": [],
+  "Herbal Extract": [],
+  "Hide of Gregg'r": [],
+  "High-Quality Chain Boots": [],
+  "High-Quality Chain Helmet": [],
+  "High-Quality Chain Leggings": [],
+  "High-Quality Chain Mail": [],
+  "Highland Basil": [],
+  "Highrise": [],
+  "Hillich": [],
+  "Holiday Spirit": [],
+  "Holly": [],
+  "Holy Powder": [],
+  "Homemade Fur Coat": [],
+  "Homeorhesis": [
+    {
+      "type": "raid",
+      "name": "Nest of the Grootslangs"
+    }
+  ],
+  "Hood of the Resistance": [],
+  "Horse Mane": [],
+  "Horseshoe": [],
+  "Hotline": [],
+  "Hourglass": [],
+  "Hourslip": [],
+  "Howler": [],
+  "Howler Hide": [],
+  "Hue": [],
+  "Humbark Moccasins": [],
+  "Hunter's Disguise": [],
+  "Hurricane": [],
+  "Hybrid Skin": [],
+  "Hydrocharger": [],
+  "Hydrofluoric Acid": [],
+  "Hymn of the Dead": [],
+  "Ibjub Fruit": [],
+  "Ice Cream Sandwich": [],
+  "Ice Fragment": [],
+  "Ice Mask": [],
+  "Ice Silver": [
+    {
+      "type": "unobtainable",
+      "description": "Unobtainable"
+    }
+  ],
+  "Ice Skates": [],
+  "Ice Sliver": [],
+  "Iceberries": [],
+  "Icejewel": [],
+  "Icicle": [],
+  "Icy Shard": [],
+  "Iklaj": [],
+  "Illuminated Spirit": [],
+  "Illusory Idol": [],
+  "Impeccable Granite Bow": [],
+  "Impeccable Granite Relik": [],
+  "Impeccable Granite Shears": [],
+  "Impeccable Granite Spear": [],
+  "Impeccable Granite Stick": [],
+  "Impeccable Light Birch Bow": [],
+  "Impeccable Light Birch Dagger": [],
+  "Impeccable Light Birch Relik": [],
+  "Impeccable Light Birch Spear": [],
+  "Impeccable Light Birch Wand": [],
+  "Impeccable Light Oak Bow": [],
+  "Impeccable Light Oak Dagger": [],
+  "Impeccable Light Oak Relik": [],
+  "Impeccable Light Oak Spear": [],
+  "Impeccable Light Oak Wand": [],
+  "Impure Morph-Gold": [
+    {
+      "type": "discontinued",
+      "description": "No longer obtainable - Replaced by Morph-Gold"
+    }
+  ],
+  "Incremental Mapping Module": [],
+  "Infected Mass": [],
+  "Infernal Flesh": [],
+  "Infidel": [],
+  "Info Visor": [],
+  "Infused Gold": [],
+  "Infused Hive Bow": [],
+  "Infused Hive Dagger": [],
+  "Infused Hive Relik": [],
+  "Infused Hive Spear": [],
+  "Infused Hive Wand": [],
+  "Inhibitor": [
+    {
+      "type": "unobtainable",
+      "description": "Available only in Hero Beta"
+    }
+  ],
+  "Inmate Outfit": [],
+  "Insanity Star": [],
+  "Insulated Plate Mail": [],
+  "Insulated Wiring": [],
+  "Intensity": [],
+  "Intuition": [],
+  "Iridescent Elytra": [],
+  "Iron Foot": [],
+  "Iron Will": [],
+  "Ironbody": [],
+  "Ironwood Chips": [],
+  "Ironwood Scale": [],
+  "Island Sniper": [],
+  "Ivoire": [],
+  "Ivory Tusk": [],
+  "Ivy Sprout": [],
+  "Jaw Breaker": [],
+  "Jewel Cutter": [],
+  "Jeweled Vestments": [],
+  "Jewelled Broach": [],
+  "Jolting Geode": [],
+  "Joyous": [],
+  "Judas": [],
+  "Jungle Spirit": [],
+  "Jungle Wood Bow": [],
+  "Jungle Wood Relik": [],
+  "Jungle Wood Shears": [],
+  "Jungle Wood Spear": [],
+  "Jungle Wood Stick": [],
+  "Kaerynn's Body": [],
+  "Kaerynn's Mind": [],
+  "Kahontsi Ohstyen": [
+    {
+      "type": "bossaltar",
+      "name": "Tribal Sanctuary"
+    }
+  ],
+  "Kaian Scroll": [],
+  "Kal Hei": [],
+  "Kaolin Clay": [],
+  "Karl Johan Cap": [],
+  "Karma": [],
+  "Kerasot Sporehead": [],
+  "Kerasot Spreader": [],
+  "Kindled Orchid": [],
+  "Knee": [],
+  "Krampus": [],
+  "Larbonic Sheddings": [],
+  "Large Lapis": [],
+  "Large Titanium Chunk": [
+    {
+      "type": "bossaltar",
+      "name": "Altar of Sanctification"
+    }
+  ],
+  "Laryngeal Flesh": [],
+  "Lashing Hellfire": [],
+  "Latency": [],
+  "Lava Blisters": [],
+  "Lazarus' Brace": [],
+  "Leafy Stalk": [],
+  "Leather": [],
+  "Leg Eater Tooth": [],
+  "Legend Guard's Plate": [
+    {
+      "type": "bossaltar",
+      "name": "Arena of the Legends"
+    }
+  ],
+  "Legendary Medallion": [],
+  "Leopard Blood": [],
+  "Letum": [],
+  "Letvus Delight": [],
+  "Licorice Ropes": [],
+  "Light Jungle Wood Bow": [],
+  "Light Jungle Wood Relik": [],
+  "Light Jungle Wood Shears": [],
+  "Light Jungle Wood Spear": [],
+  "Light Jungle Wood Stick": [],
+  "Lightning Flash": [],
+  "Limestone Core": [],
+  "Linear Accelerator": [],
+  "Lion Fang": [],
+  "Lion Heart": [],
+  "Lion's Pelt": [],
+  "Lithoflesh": [],
+  "Lively Apple": [],
+  "Lizard Scale": [],
+  "Lizard Tail": [],
+  "Lobotomy": [],
+  "Lockpicking Kit": [],
+  "Longevity": [],
+  "Longtail Boots": [],
+  "Lookout": [],
+  "Lost Heirloom": [],
+  "Lost Talisman": [],
+  "Lotus Seedpod": [],
+  "Low World Greaves": [],
+  "Lower": [
+    {
+      "type": "bossaltar",
+      "name": "The Orange Wybel"
+    }
+  ],
+  "Lucky Rabbit's Foot": [],
+  "Lucky Spider Egg": [],
+  "Luminescent Ink": [],
+  "Luminous Rune": [],
+  "Lunar Charm": [],
+  "Lunar Chunk": [],
+  "Lunar Dust": [],
+  "Lunar Shard": [],
+  "Luu Luu Vertebrae": [],
+  "Luxic Plasma": [],
+  "Luxroot Cuttings": [],
+  "Luxurious Silk": [],
+  "Lycanthropy": [],
+  "Macabre": [],
+  "Mage-Crafted Staff": [],
+  "Magic Cloak": [],
+  "Magic Feather": [],
+  "Magical Loop": [],
+  "Magicule Sample": [],
+  "Magma Flinger": [],
+  "Magmatic Skin": [],
+  "Mahogany Heartwood": [],
+  "Mail of the Berserker": [],
+  "Major's Badge": [],
+  "Mama Zomble's Memory": [],
+  "Mana Extract": [],
+  "Mangled Soul": [],
+  "Mangrove Root": [],
+  "Manis Carapace": [],
+  "Manna": [],
+  "Mantlewalkers": [],
+  "Marius' Prison": [
+    {
+      "type": "bossaltar",
+      "name": "Prison of Souls"
+    }
+  ],
+  "Maromagnetite": [],
+  "Marrow Dust": [],
+  "Marrow-Tinted Necklace": [],
+  "Marsufosa Pelt": [],
+  "Mashed Insect": [],
+  "Mask of Courage": [],
+  "Mask of Enlightenment": [],
+  "Mask of Fear": [],
+  "Mask of Hate": [],
+  "Mask of Rage": [],
+  "Mask of the Dark Curse": [],
+  "Mask of the Dark Vexations": [],
+  "Mask of the Spirits": [
+    {
+      "type": "discontinued",
+      "description": "Was obtainable during \"Drawing of the Spirits\" event"
+    }
+  ],
+  "Matryoshka Shell": [],
+  "Maul": [],
+  "Mech Core": [],
+  "Medecin": [],
+  "Mega Fern": [],
+  "Megabyte": [],
+  "Mellow Mango": [],
+  "Melted Steel": [],
+  "Memorial": [],
+  "Merchant Sandals": [],
+  "Mercurial Chestplate": [],
+  "Messenger Cap": [],
+  "Metal Body Suit": [],
+  "Metal Breaker": [],
+  "Metal Mask": [],
+  "Metal Scraps": [],
+  "Metamorphosis": [
+    {
+      "type": "raid",
+      "name": "Nest of the Grootslangs"
+    }
+  ],
+  "Miasma": [],
+  "Microchip": [],
+  "Mineral Cinder": [],
+  "Mining Fever": [],
+  "Miotal": [],
+  "Mistletoe": [],
+  "Mithril Mantle": [],
+  "Mixed Jewel Deposit": [
+    {
+      "type": "bossaltar",
+      "name": "Geyser Pit"
+    }
+  ],
+  "Mixed Mineral Deposit": [
+    {
+      "type": "bossaltar",
+      "name": "Geyser Pit"
+    }
+  ],
+  "Mixed Seeds": [],
+  "Molten Greaves": [],
+  "Moon Pool Circlet": [],
+  "Moonlight": [],
+  "Mooshroom Ear": [],
+  "More-Pearlescent Jewel": [
+    {
+      "type": "bossaltar",
+      "name": "Arena of the Legends"
+    }
+  ],
+  "Mountain's Heart": [],
+  "Mountain's Song": [],
+  "Mud": [],
+  "Mud Mask": [],
+  "Mummy's Rag": [],
+  "Munched Grass": [],
+  "Muscle": [],
+  "Myconid Spores": [],
+  "Myrrh": [],
+  "Mysterious Mist": [],
+  "Mythical Hoof": [],
+  "Naga Tail": [],
+  "Nasty Residue": [],
+  "Native Jadeite": [],
+  "Nativitate": [],
+  "Nauticals": [],
+  "Naval Shard": [],
+  "Naval Stone": [],
+  "Necklace of a Thousand Storms": [],
+  "Nemract Waders": [],
+  "Nesaak Snowshoes": [],
+  "Nest": [],
+  "Nether Boots": [],
+  "Nether Cap": [],
+  "Nether Pants": [],
+  "Nether Tunic": [],
+  "Nightmare": [],
+  "Nightmare Fuel": [
+    {
+      "type": "bossaltar",
+      "name": "Prison of Souls"
+    }
+  ],
+  "Nilrem's Curse": [],
+  "Nivlan Honey": [],
+  "Nivlan Honeycomb": [],
+  "Nodguj Warrior Chestplate": [],
+  "Nodguj Warrior Sword": [],
+  "Nona": [
+    {
+      "type": "bossaltar",
+      "name": "Aerie of the Recluse"
+    }
+  ],
+  "North Pole": [],
+  "Nose Ring": [],
+  "Nova Bloom": [],
+  "Oak Wood Bow": [],
+  "Oak Wood Dagger": [],
+  "Oak Wood Relik": [],
+  "Oak Wood Shears": [],
+  "Oak Wood Spear": [],
+  "Oak Wood Stick": [],
+  "Oak Wood Wand": [],
+  "Obelisk Core": [],
+  "Obolus": [
+    {
+      "type": "bossaltar",
+      "name": "Rotten Passage"
+    }
+  ],
+  "Obsidian-Framed Helmet": [],
+  "Ocea Steel": [],
+  "Oceanic Sand": [],
+  "Oceanic Silt": [],
+  "Ocelot Hair": [
+    {
+      "type": "unobtainable",
+      "description": "Unobtainable"
+    }
+  ],
+  "Ocelot Pelt": [],
+  "Ocelot Tail": [],
+  "Odin": [],
+  "Ohms' Rage": [
+    {
+      "type": "unobtainable",
+      "description": "Unobtainable"
+    }
+  ],
+  "Ohonte Kerhite": [
+    {
+      "type": "bossaltar",
+      "name": "Tribal Sanctuary"
+    }
+  ],
+  "Old Bone": [],
+  "Old Explosives": [],
+  "Old Treasure": [],
+  "Olit Vaniek": [],
+  "Olmic Artifact": [],
+  "Olux's Prized Bow": [],
+  "Olux's Prized Dagger": [],
+  "Olux's Prized Relik": [],
+  "Olux's Prized Spear": [],
+  "Olux's Prized Wand": [],
+  "Ominous Pearl": [],
+  "Ominous Wind": [],
+  "Onenya Hronkas": [
+    {
+      "type": "bossaltar",
+      "name": "Tribal Sanctuary"
+    }
+  ],
+  "Oni Helm": [],
+  "Opium": [],
+  "Optic Fiber": [],
+  "Optic Lens": [],
+  "Orange Lily": [],
+  "Orc Eye": [],
+  "Orc Mask": [],
+  "Orc Slasher": [],
+  "Orc Teeth": [],
+  "Organic Explosive": [],
+  "Ornamental Plate": [],
+  "Ornate Shadow Cloud": [],
+  "Ornate Shadow Cover": [],
+  "Ornate Shadow Cowl": [],
+  "Ornate Shadow Garb": [],
+  "Ossuary": [],
+  "Ouragan": [],
+  "Outdated Newspaper": [],
+  "Overgrown Bones": [],
+  "Overheated Processor": [],
+  "Overload Aspect": [],
+  "Owl Feather": [],
+  "Packet": [],
+  "Padded Leather Boots": [],
+  "Padded Leather Cap": [],
+  "Padded Leather Leggings": [],
+  "Padded Leather Tunic": [],
+  "Panda King's Crown": [],
+  "Panic Zealot": [
+    {
+      "type": "bossaltar",
+      "name": "Bottomless Pit"
+    }
+  ],
+  "Paralyzing Spores": [],
+  "Paranoia": [],
+  "Parasitic Abscission": [],
+  "Peaceful Rest": [],
+  "Pearlescent Jewel": [],
+  "Pegasus Feather": [],
+  "Pendant of Prosperity": [],
+  "Penguin Egg": [],
+  "Perkish Potato": [],
+  "Permafrosted Saxifrage": [],
+  "Pewter Ring": [],
+  "Phage Pins": [
+    {
+      "type": "bossaltar",
+      "name": "Magmastream Core"
+    }
+  ],
+  "Phoenix Prince's Crown": [],
+  "Photon": [],
+  "Phrumkin Seeds": [],
+  "Phrumpkin Seeds": [],
+  "Pig's Blood": [],
+  "Pig's Remains": [],
+  "Pig's Skull": [],
+  "Pigman Meat": [],
+  "Pike of Fury": [],
+  "Pillaged Fragment": [],
+  "Pine Bow": [],
+  "Pink Pelulite": [],
+  "Pink Pelute": [],
+  "Pink Wool": [],
+  "Piquant Pork Fillet": [],
+  "Piranha": [],
+  "Piranha Jaw": [],
+  "Pirate Beard": [],
+  "Pirate Luck": [],
+  "Pirate Queen's Ring of Rubies": [
+    {
+      "type": "unobtainable",
+      "description": "Unobtainable"
+    }
+  ],
+  "Plague": [],
+  "Plague Mask": [
+    {
+      "type": "bossaltar",
+      "name": "Plague Laboratory"
+    }
+  ],
+  "Plague Staff": [
+    {
+      "type": "bossaltar",
+      "name": "Plague Laboratory"
+    }
+  ],
+  "Plain Glass Necklace": [],
+  "Plains Runner": [],
+  "Plane of Nonexistence": [],
+  "Plasteel Plating": [],
+  "Plate Shock": [],
+  "Plated Iron Boots": [],
+  "Plated Iron Chestplate": [],
+  "Plated Iron Helmet": [],
+  "Plated Iron Leggings": [],
+  "Plated Mining Helm": [],
+  "Platinum Grook Egg": [],
+  "Platinum Ingot": [],
+  "Plucked Feather": [],
+  "Plutonium Waste": [],
+  "Poinsettia": [],
+  "Poison Sac": [],
+  "Poisonous Spider Eye": [],
+  "Pokey Cactus": [],
+  "Polar Star": [],
+  "Poorly-Made Pouch": [],
+  "Popped Pustule": [],
+  "Portable Buoys": [],
+  "Portal Emanation": [],
+  "Portal Rift": [],
+  "Potato": [],
+  "Potion of Agility [Level 25]": [],
+  "Potion of Agility [Level 35]": [],
+  "Potion of Agility [Level 45]": [],
+  "Potion of Agility [Level 55]": [],
+  "Potion of Agility [Level 65]": [],
+  "Potion of Agility [Level 75]": [],
+  "Potion of Agility [Level 85]": [],
+  "Potion of Agility [Level 95]": [],
+  "Potion of Defense [Level 25]": [],
+  "Potion of Defense [Level 35]": [],
+  "Potion of Defense [Level 45]": [],
+  "Potion of Defense [Level 55]": [],
+  "Potion of Defense [Level 65]": [],
+  "Potion of Defense [Level 75]": [],
+  "Potion of Defense [Level 85]": [],
+  "Potion of Defense [Level 95]": [],
+  "Potion of Dexterity [Level 25]": [],
+  "Potion of Dexterity [Level 35]": [],
+  "Potion of Dexterity [Level 45]": [],
+  "Potion of Dexterity [Level 55]": [],
+  "Potion of Dexterity [Level 65]": [],
+  "Potion of Dexterity [Level 75]": [],
+  "Potion of Dexterity [Level 85]": [],
+  "Potion of Dexterity [Level 95]": [],
+  "Potion of Drunkness [Level 21]": [],
+  "Potion of Healing [Level 100]": [],
+  "Potion of Healing [Level 95]": [],
+  "Potion of Intelligence [Level 25]": [],
+  "Potion of Intelligence [Level 35]": [],
+  "Potion of Intelligence [Level 45]": [],
+  "Potion of Intelligence [Level 55]": [],
+  "Potion of Intelligence [Level 65]": [],
+  "Potion of Intelligence [Level 75]": [],
+  "Potion of Intelligence [Level 85]": [],
+  "Potion of Intelligence [Level 95]": [],
+  "Potion of Mana [Level 100]": [],
+  "Potion of Strength [Level 25]": [],
+  "Potion of Strength [Level 35]": [],
+  "Potion of Strength [Level 45]": [],
+  "Potion of Strength [Level 55]": [],
+  "Potion of Strength [Level 65]": [],
+  "Potion of Strength [Level 75]": [],
+  "Potion of Strength [Level 85]": [],
+  "Potion of Strength [Level 95]": [],
+  "Potion of Wisdom [Level 65]": [],
+  "Potion of Wisdom [Level 45]": [],
+  "Powdery Bone": [
+    {
+      "type": "bossaltar",
+      "name": "Rotten Passage"
+    }
+  ],
+  "Practice": [],
+  "Prancer": [],
+  "Premium Hay Bale": [],
+  "Pressure Blaster": [],
+  "Prickly Grass": [],
+  "Pride": [],
+  "Pride of the Aerie": [],
+  "Pride of the Heights": [],
+  "Primeval Skin": [],
+  "Primitive Delicacy": [],
+  "Primordial Soul": [],
+  "Pristine Claw": [],
+  "Prized Coin": [],
+  "Prized Pelt": [],
+  "Prognosticum": [],
+  "Protective Fabric": [],
+  "Prowess": [],
+  "Psychomend Vest": [],
+  "Pulse Starter": [],
+  "Pulse Stopper": [],
+  "Pumpkin Helmet": [
+    {
+      "type": "discontinued",
+      "description": "No longer obtainable"
+    }
+  ],
+  "Puncturing Dirk": [],
+  "Pure Andesite Bow": [],
+  "Pure Andesite Relik": [],
+  "Pure Andesite Shears": [],
+  "Pure Andesite Spear": [],
+  "Pure Andesite Stick": [],
+  "Pure Diamond Chestplate": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Pure Diorite Bow": [],
+  "Pure Diorite Relik": [],
+  "Pure Diorite Shears": [],
+  "Pure Diorite Spear": [],
+  "Pure Diorite Stick": [],
+  "Pure Iron Boots": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Pure Iron Helmet": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Pure Iron Leggings": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Pure Oak Relik": [],
+  "Pure Oak Wood Bow": [],
+  "Pure Oak Wood Shears": [],
+  "Pure Oak Wood Spear": [],
+  "Pure Oak Wood Stick": [],
+  "Pure Quartz": [],
+  "Pure Rain Stone": [],
+  "Purest Tear": [],
+  "Purification Bead": [
+    {
+      "type": "bossaltar",
+      "name": "Plague Laboratory"
+    }
+  ],
+  "Purified Helmet of the Legends": [],
+  "Purity": [],
+  "Pursuit": [],
+  "Putrid": [],
+  "Putrid Gunk": [],
+  "Putrid Spores": [],
+  "Pykrete": [],
+  "Quartron's Eye": [],
+  "Quartz Cluster": [],
+  "Quartz Driller": [],
+  "Quick-Strike Leggings": [
+    {
+      "type": "bossaltar",
+      "name": "Altar of Sanctification"
+    }
+  ],
+  "Quicksand Crossers": [],
+  "Quicksilver": [],
+  "Ra": [],
+  "Rabbit Carcass": [],
+  "Radiant Seeds": [],
+  "Raging Wind": [],
+  "Ragni Fatigues": [],
+  "Ragon's Bracelet": [],
+  "Rainbow Sanctuary": [],
+  "Ramhoof": [],
+  "Rancid Flesh": [],
+  "Randall's Leg Plating": [],
+  "Rare Potato": [],
+  "Rask": [],
+  "Rat Hair": [],
+  "Rat Skull": [],
+  "Recalcitrance": [
+    {
+      "type": "raid",
+      "name": "The Canyon Colossus"
+    }
+  ],
+  "Reciprocator": [],
+  "Recluse Venom Sac": [],
+  "Recovery": [],
+  "Red Crystal Dust": [],
+  "Red Mercury": [],
+  "Red Mushroom": [],
+  "Red Ornament": [],
+  "Red Shale": [],
+  "Red Team Boots": [],
+  "Red Team Chestplate": [],
+  "Red Team Helmet": [],
+  "Red Team Leggings": [],
+  "Redbeard's Hand Cannon": [],
+  "Redrock Bandanna": [
+    {
+      "type": "bossaltar",
+      "name": "Sunrise Canyon"
+    }
+  ],
+  "Refined Chainmail Helmet": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Refined Iron Boots": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Refined Iron Chainmail": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Refined Iron Leggings": [
+    {
+      "type": "discontinued",
+      "description": "Discontinued cause out of normal progression."
+    }
+  ],
+  "Refined Longbow": [],
+  "Regar": [],
+  "Regenerative Pins": [],
+  "Reindeer Paws": [],
+  "Reinforced Composite Bow": [],
+  "Reinforced Leather": [
+    {
+      "type": "bossaltar",
+      "name": "Bovine Barn"
+    }
+  ],
+  "Relic Boots": [],
+  "Relic Bow": [],
+  "Relic Chestplate": [],
+  "Relic Daggers": [],
+  "Relic Helmet": [],
+  "Relic Leggings": [],
+  "Relic Relik": [],
+  "Relic Spear": [],
+  "Relic Wand": [],
+  "Relic of the Future": [],
+  "Relic of the Past": [],
+  "Remembrance": [],
+  "Remikas' Authority": [],
+  "Renda Langit": [],
+  "Reptile Scales": [],
+  "Repulsive Aspect": [],
+  "Residual Spirit": [],
+  "Resilient Stone": [],
+  "Resistant Strain": [
+    {
+      "type": "bossaltar",
+      "name": "Magmastream Core"
+    }
+  ],
+  "Restorator": [],
+  "Restored Ancient Helmet": [],
+  "Retinal Barbs": [],
+  "Retinal Membrane": [],
+  "Reversion": [],
+  "Ribcage": [],
+  "Rigid Fin": [],
+  "Ring of Generosity": [],
+  "Ring of Power": [],
+  "Ring of Rubies": [],
+  "Ring of Wisdom": [],
+  "Ritual Catalyst": [],
+  "River Clay": [],
+  "Roasted Chestnut": [],
+  "Roasted Tissue": [],
+  "Robot Antenna": [],
+  "Rocher": [],
+  "Rock Mask": [],
+  "Rock-Hard Beak": [],
+  "Rocky Mind": [],
+  "Rodoroc's Guard": [],
+  "Roots of Eternity": [],
+  "Rose": [],
+  "Rotten Bone": [],
+  "Rotten Flesh": [],
+  "Rotten Log": [],
+  "Rotten Swamp": [],
+  "Rotten Teeth": [],
+  "Rotting Bone": [],
+  "Rough Diamond": [],
+  "Rounding Test": [
+    {
+      "type": "unobtainable",
+      "description": "Unobtainable"
+    }
+  ],
+  "Router": [],
+  "Router's Shield": [
+    {
+      "type": "bossaltar",
+      "name": "Rotten Passage"
+    }
+  ],
+  "Royal Blazing Amulet": [],
+  "Royal Bug's Blood": [],
+  "Royal Cake Slice": [],
+  "Royal Cyclone Amulet": [],
+  "Royal Dusty Amulet": [],
+  "Royal Hydrangea": [],
+  "Royal Shocking Amulet": [],
+  "Royal Stormy Amulet": [],
+  "Ruins Shard": [],
+  "Rumble": [],
+  "Rune of Safe Passage": [],
+  "Rusher": [],
+  "Rusty Axe Head": [],
+  "Rusty Sword": [],
+  "Rycar's Elation": [
+    {
+      "type": "unobtainable",
+      "description": "Unobtainable"
+    }
+  ],
+  "Sacramentalia": [],
+  "Sacred": [],
+  "Sacrificial": [],
+  "Saint's Leggings": [],
+  "Saint's Sandals": [],
+  "Saint's Shawl": [],
+  "Saint's Tunic": [],
+  "Salpinx": [],
+  "Salt": [],
+  "Salt Water": [],
+  "Salted Salmon": [],
+  "Saltest Spear": [
+    {
+      "type": "unobtainable",
+      "description": "Unobtainable"
+    }
+  ],
+  "Salticidae": [],
+  "Sandshooter": [],
+  "Sandslasher": [],
+  "Sandy Bonemeal": [],
+  "Sanies": [],
+  "Santa Boots": [
+    {
+      "type": "discontinued",
+      "description": "Event"
+    }
+  ],
+  "Santa Hat": [
+    {
+      "type": "discontinued",
+      "description": "Event"
+    }
+  ],
+  "Santa's Coat": [],
+  "Santa's Pants": [
+    {
+      "type": "discontinued",
+      "description": "Event"
+    }
+  ],
+  "Savannah Stone": [],
+  "Savannah Wind": [],
+  "Sawtooth": [],
+  "Scalding Band": [],
+  "Scalding Sand": [],
+  "Scarab Husk": [],
+  "Scarab-Shelled Charm": [],
+  "Scarred Leather": [],
+  "Scopaesthesia": [
+    {
+      "type": "bossaltar",
+      "name": "Bottomless Pit"
+    }
+  ],
+  "Scorpion Tail": [],
+  "Scout Dagger": [],
+  "Scrooge": [],
+  "Scum": [],
+  "Scuttling Syenite": [
+    {
+      "type": "bossaltar",
+      "name": "Magmastream Core"
+    }
+  ],
+  "Scytodidae": [],
+  "Sea Legs": [],
+  "Sea Salt": [],
+  "Seabird Egg": [],
+  "Seabird Feather": [],
+  "Seafarer's Coat": [],
+  "Seagrass": [],
+  "Seal Breaker": [],
+  "Sealed Blaze": [],
+  "Sealskin Parka": [],
+  "Searchlight": [],
+  "Searing Soles": [],
+  "Secondsaver": [],
+  "Seedling": [],
+  "Seekers Aid": [
+    {
+      "type": "discontinued",
+      "description": "Event"
+    }
+  ],
+  "Sekaisin": [],
+  "Selchar's Famous Breeches": [],
+  "Sentient Shadow": [],
+  "Sentient Slimeball": [],
+  "Sentient Water": [],
+  "Serafite": [],
+  "Serpent Tongue": [],
+  "Serpent's Fang": [],
+  "Serpent's Kiss": [],
+  "Severed Heart": [],
+  "Severed Leg": [],
+  "Shackle of Shade": [
+    {
+      "type": "bossaltar",
+      "name": "Challenge of the Blades"
+    }
+  ],
+  "Shackles of the Beast": [
+    {
+      "type": "bossaltar",
+      "name": "Prison of Souls"
+    }
+  ],
+  "Shade": [],
+  "Shadestep": [
+    {
+      "type": "bossaltar",
+      "name": "Challenge of the Blades"
+    }
+  ],
+  "Shadow Spear": [],
+  "Shadow of Ruin": [],
+  "Shajone": [],
+  "Shale Edge": [],
+  "Shameful Greaves": [],
+  "Shard of Sky": [],
+  "Sharp Claw": [],
+  "Sharp Edge": [],
+  "Sharpening Stone": [],
+  "Shattered Aspect": [],
+  "Shattered Blade": [],
+  "Shattered Dawnlight": [],
+  "Shattered Memory Shard": [],
+  "Sheet Ice": [],
+  "Shield": [],
+  "Shimmering Jewel": [],
+  "Shine Lamp": [],
+  "Shinesting Scorpion Tail": [],
+  "Shining Wool": [],
+  "Shiny Mask": [],
+  "Shiny Mineral Deposit": [
+    {
+      "type": "bossaltar",
+      "name": "Geyser Pit"
+    }
+  ],
+  "Short Cutter": [],
+  "Shorting Wire": [],
+  "Shortout": [],
+  "Shredded Bone": [],
+  "Shrieker's Head": [],
+  "Siege Ram": [],
+  "Silencer": [],
+  "Silent Night": [],
+  "Siliquartz Blend": [],
+  "Silkwrap": [],
+  "Silt of the Seafloor": [],
+  "Silver Bay": [],
+  "Silver Bullet": [],
+  "Silver Feather": [],
+  "Silver Fiber Bracelet": [],
+  "Silver Fiber Necklace": [],
+  "Silver Fiber Ring": [],
+  "Silver Fusion Bracelet": [],
+  "Silver Fusion Necklace": [],
+  "Silver Fusion Ring": [],
+  "Silver Hydro Bracelet": [],
+  "Silver Hydro Necklace": [],
+  "Silver Hydro Ring": [],
+  "Silver Short Spear": [],
+  "Silver Solar Bracelet": [],
+  "Silver Solar Necklace": [],
+  "Silver Solar Ring": [],
+  "Silver Static Bracelet": [],
+  "Silver Static Necklace": [],
+  "Silver Static Ring": [],
+  "Silver Steam Bracelet": [],
+  "Silver Steam Necklace": [],
+  "Silver Steam Ring": [],
+  "Silversplint": [],
+  "Sine": [],
+  "Skeletal Legs": [],
+  "Sketiq": [],
+  "Ski Mask": [],
+  "Skien Boots": [],
+  "Skien Leggings": [],
+  "Skien's Fatigues": [],
+  "Skull Breaker": [],
+  "Sky Chef's Apron": [],
+  "Sky Flux": [],
+  "Sky Snail Shell": [],
+  "Skybound Remnant": [],
+  "Skyfloat": [],
+  "Skyline Cries": [],
+  "Skyraider Coin": [],
+  "Slainte": [],
+  "Sleek": [],
+  "Sleet": [],
+  "Sleigh Bell": [],
+  "Sleigher": [],
+  "Slider": [
+    {
+      "type": "bossaltar",
+      "name": "The Orange Wybel"
+    }
+  ],
+  "Slimy Skin": [],
+  "Sludge Parasite": [],
+  "Slush Rush": [],
+  "Smithy": [],
+  "Smokebomb": [],
+  "Smoldering Apron": [],
+  "Smooth Silt": [],
+  "Snail Boots": [],
+  "Snail Helm": [],
+  "Snail Leggings": [],
+  "Snail Mail": [],
+  "Snake Eye": [],
+  "Snake Scale": [],
+  "Snake Skin": [],
+  "Snake Tooth": [],
+  "Snow Boots": [],
+  "Snow Clump": [],
+  "Snow Heart": [],
+  "Snow Helmet": [],
+  "Snow Pants": [],
+  "Snow Shovel": [],
+  "Snow Tunic": [],
+  "Snowdrift": [],
+  "Snowflake": [],
+  "Snowstorm": [],
+  "Soapstone": [],
+  "Sodeta Boots": [],
+  "Soft Blue Wool": [],
+  "Soft Green Wool": [],
+  "Soft Red Wool": [],
+  "Soft Sand": [],
+  "Soft Silk": [],
+  "Soft White Wool": [],
+  "Soft Yellow Wool": [],
+  "Soggy Stone": [],
+  "Sol": [],
+  "Solar Sword": [],
+  "Solid Quartz Chestplate": [],
+  "Solidified Chestplate": [],
+  "Solum": [],
+  "Sorrow": [],
+  "Sought-After Ore": [],
+  "Soul Amalgamate": [],
+  "Soul Essence": [],
+  "Soul Stone": [],
+  "Soulbound Cinders": [],
+  "Soulfire Matterweave": [],
+  "Soulflare": [],
+  "Sound Proof Earmuff": [],
+  "Spark of the Oasis": [],
+  "Sparkling Visor": [],
+  "Sparks": [],
+  "Sparkweaver": [],
+  "Spearmint": [],
+  "Spectral Spike": [],
+  "Speedyboy": [
+    {
+      "type": "unobtainable",
+      "description": "Unobtainable"
+    }
+  ],
+  "Spellbound Ash": [],
+  "Spider Bracelet": [],
+  "Spider Eggs": [],
+  "Spider Fang": [],
+  "Spider Leg": [],
+  "Spider Ring": [],
+  "Spider Silk Carduroys": [],
+  "Spider's Eye Pendant": [],
+  "Spiderweb String": [],
+  "Spike Residue": [],
+  "Spiked Capsule": [
+    {
+      "type": "bossaltar",
+      "name": "Plague Laboratory"
+    }
+  ],
+  "Spiketop": [],
+  "Spinneret": [],
+  "Spiritual Siphoner": [],
+  "Spirograph Tablet": [],
+  "Splinter": [],
+  "Split Essence": [],
+  "Spreading Fireweed": [],
+  "Springtrap": [],
+  "Sprout": [],
+  "Squid": [],
+  "Squid Beak": [],
+  "Squid Ink": [],
+  "Sreggad": [],
+  "Stack of Coins": [],
+  "Staff of Wisdom": [],
+  "Staff of the Dark Vexations": [],
+  "Stagnant": [],
+  "Stainless Steel": [],
+  "Stalactite": [],
+  "Stale": [],
+  "Standard Chain Boots": [],
+  "Standard Chain Helmet": [],
+  "Standard Chain Leggings": [],
+  "Standard Chain Mail": [],
+  "Static-Charged Leggings": [],
+  "Stave of the Legends": [
+    {
+      "type": "bossaltar",
+      "name": "Arena of the Legends"
+    }
+  ],
+  "Steady Grip": [],
+  "Steamstone": [],
+  "Sterk": [],
+  "Sterling Silver": [],
+  "Sticky Fern": [],
+  "Sticky Mudball": [],
+  "Stillwater Blue": [],
+  "Sting": [],
+  "Sting-Glass Necklace": [],
+  "Stinger": [
+    {
+      "type": "bossaltar",
+      "name": "The Orange Wybel"
+    }
+  ],
+  "Stingy": [],
+  "Stolen Goods": [],
+  "Stolen Harvest": [],
+  "Stolen Pearls": [],
+  "Stolen Seeds": [],
+  "Stone Crunch": [],
+  "Stone Plating": [],
+  "Stonebreaker": [],
+  "Stonewalker Core": [],
+  "Storm Horn": [],
+  "Stormcloud": [],
+  "Strange Geode": [],
+  "Strategist": [],
+  "Stretched Rawhide": [],
+  "Stricken Bolt": [],
+  "Strikedown": [],
+  "Stringhollow": [],
+  "Strong Flesh": [],
+  "Sturdy Flesh": [],
+  "Styx's Grab": [],
+  "Subsuming Darkness": [
+    {
+      "type": "bossaltar",
+      "name": "Challenge of Blades"
+    }
+  ],
+  "Subur Clip": [],
+  "Succulent Crab Meat": [],
+  "Sugar Stick": [],
+  "Summa": [
+    {
+      "type": "bossaltar",
+      "name": "Geyser Pit"
+    }
+  ],
+  "Summer": [],
+  "Sun-Stained Skin": [],
+  "Sunblight Boots": [],
+  "Sundown Poncho": [
+    {
+      "type": "bossaltar",
+      "name": "Sunrise Canyon"
+    }
+  ],
+  "Surefooter": [],
+  "Suspicious Shrubs": [],
+  "Swamp Treads": [],
+  "Swooper Wing": [],
+  "Sylphid Tears": [],
+  "Tangy Nectar": [],
+  "Tankard Basher": [],
+  "Tanned Flesh": [],
+  "Tarnished Gold Foil": [],
+  "Tear of Pirate Cove": [],
+  "Tearing Seam": [],
+  "Tempered Core": [],
+  "Tempo Tanto": [],
+  "Tempo Ticker": [],
+  "Tempo Totem": [],
+  "Tempo Trebuchet": [],
+  "Tempo Trident": [],
+  "Temporal Cage": [],
+  "Tender Pork Fillet": [],
+  "Tenebrous Plasma": [],
+  "Tentacle": [],
+  "Tera": [
+    {
+      "type": "bossaltar",
+      "name": "Geyser Pit"
+    }
+  ],
+  "Terra Steel": [],
+  "Terracotta Chunk": [],
+  "Thanos Banner": [],
+  "Thanos Brand": [],
+  "Thanos Crest": [],
+  "Thanos Ironstaff": [],
+  "Thanos Legionnaire Greaves": [],
+  "Thanos Legionnaire Helm": [],
+  "Thanos Legionnaire Leggings": [],
+  "Thanos Legionnaire Plate": [],
+  "Thanos Siege Bow": [],
+  "Thanos Stonesinger": [],
+  "Thanos Warhammer": [],
+  "Thanos Warsword": [],
+  "Thaw": [],
+  "The Airway": [],
+  "The Crossing": [],
+  "The Crow's Nest": [],
+  "The Evolved": [],
+  "The Exploited": [],
+  "The Fallen": [],
+  "The Forsaken": [],
+  "The Grootslang's Heart": [],
+  "The Hearth": [],
+  "The Judge": [],
+  "The Juggernaut": [],
+  "The Magician": [],
+  "The Master's Gi": [],
+  "The Modulator": [],
+  "The Naturalist": [],
+  "The Nothing": [],
+  "The Queen's Headpiece": [],
+  "The Saltwater Rune": [],
+  "The Scarecrow's Vest": [
+    {
+      "type": "bossaltar",
+      "name": "Bovine Barn"
+    }
+  ],
+  "The Silent": [],
+  "The Watched": [],
+  "Therck's Chain": [],
+  "Thermal Replication": [
+    {
+      "type": "bossaltar",
+      "name": "Magmastream Core"
+    }
+  ],
+  "Thermals": [],
+  "Thick Mud": [],
+  "Thick Vines": [],
+  "Thin Quill": [],
+  "Thoracic": [],
+  "Thorned Tusk": [],
+  "Thriller": [],
+  "Throbbing Avos Heart": [],
+  "Thunder Relic Boots": [],
+  "Thunder Relic Bow": [],
+  "Thunder Relic Chestplate": [],
+  "Thunder Relic Daggers": [],
+  "Thunder Relic Helmet": [],
+  "Thunder Relic Leggings": [],
+  "Thunder Relic Relik": [],
+  "Thunder Relic Spear": [],
+  "Thunder Relic Wand": [],
+  "Thunder Sanctuary": [],
+  "Thunderous Step": [],
+  "Tight Clamp": [],
+  "Time Ring": [],
+  "Timelocked Breath": [],
+  "Timelocked Coal": [],
+  "Timelocked Dew": [],
+  "Timelocked Spark": [],
+  "Timelocked Stone": [],
+  "Tisaun's Valor": [],
+  "Titanium Chunk": [
+    {
+      "type": "bossaltar",
+      "name": "Altar of Sanctification"
+    }
+  ],
+  "Tophet": [],
+  "Torch": [],
+  "Torn Rawhide": [],
+  "Torn Skin": [],
+  "Tough Bone": [],
+  "Tough Skin": [],
+  "Toxic Lumps": [],
+  "Toxic Spores": [],
+  "Toxxulous Ripper's Legs": [],
+  "Toy Maker": [],
+  "Tragedy": [],
+  "Trainer's Pendant": [
+    {
+      "type": "bossaltar",
+      "name": "Arena of the Legends"
+    }
+  ],
+  "Traitor": [],
+  "Treasure Boots": [],
+  "Treat": [
+    {
+      "type": "discontinued",
+      "description": "Event"
+    }
+  ],
+  "Tree Bracelet": [],
+  "Tremolo": [],
+  "Trench Scourer": [],
+  "Tribal Boots": [],
+  "Tribal Cap": [],
+  "Tribal Pants": [],
+  "Tribal Tunic": [],
+  "Trick": [
+    {
+      "type": "discontinued",
+      "description": "Event"
+    }
+  ],
+  "Tricorne": [],
+  "Troll Hair": [],
+  "Troms Kid Badge": [],
+  "Tromsian Survival Knife": [],
+  "Tropical Honeysuckle": [],
+  "Trouble Tamer": [],
+  "Truffle": [],
+  "Tungsten": [],
+  "Tungsten Chunk": [],
+  "Turbine Greaves": [],
+  "Turtle Shell": [],
+  "Twilight-Gilded Cloak": [],
+  "Twisted Organ": [],
+  "Ultramarine Belt": [],
+  "Ultramarine Boots": [],
+  "Ultramarine Cape": [],
+  "Ultramarine Crown": [],
+  "Undead Heart": [],
+  "Unfading Pull": [
+    {
+      "type": "unobtainable",
+      "description": "Unobtainable"
+    }
+  ],
+  "Unholy Spirit": [],
+  "Unicorn Horn": [],
+  "Unmeltable Ice": [],
+  "Upgraded Archpriest": [],
+  "Upgraded Dark Needle": [],
+  "Upgraded Orc Mask": [],
+  "Upgraded Radiance": [],
+  "Upgraded Steel Buster": [],
+  "Upgraded Whisper": [],
+  "Urdar's Stone": [
+    {
+      "type": "bossaltar",
+      "name": "Aerie of the Recluse"
+    }
+  ],
+  "Ursine Claw": [],
+  "Used Fireball": [],
+  "Used Golden Boots": [],
+  "Used Golden Chestplate": [],
+  "Used Golden Helmet": [],
+  "Used Golden Leggings": [],
+  "Used Wolf Paw": [],
+  "Vagabond": [],
+  "Vagabond's Disgrace": [],
+  "Value": [],
+  "Vampire Blocker": [],
+  "Vandalizer": [],
+  "Vanguard": [],
+  "Vapor": [],
+  "Veekhat's Horns": [],
+  "Veekhat's Udders": [],
+  "Vei Haon": [],
+  "Venom": [],
+  "Vertebra": [],
+  "Vibrant Augment": [],
+  "Victim's Skull": [],
+  "Viking Breath": [],
+  "Viking Stone": [],
+  "Vile Stone": [],
+  "Villager Mail": [],
+  "Villager Pants": [],
+  "Vim Veins": [],
+  "Vindicator": [],
+  "Vine": [],
+  "Vine Machete": [],
+  "Viral Tentacle": [],
+  "Vis": [],
+  "Visceral Chest": [],
+  "Visceral Legs": [],
+  "Visceral Skullcap": [],
+  "Visceral Toe": [],
+  "Viscous Slime": [],
+  "Vitre": [],
+  "Vixen": [],
+  "Void": [],
+  "Void Essence": [],
+  "Void Particulates": [],
+  "Voidstone Arpes": [],
+  "Voidstone Elrik": [],
+  "Voidstone Esbald": [],
+  "Voidstone Lensing": [],
+  "Voidstone Recteps": [],
+  "Voidstone Sample": [],
+  "Volatile Light": [],
+  "Volatile Matter": [],
+  "Vortex Bracer": [],
+  "Vortex Expulsion": [],
+  "Vortexian Event Horizon": [],
+  "Vulcamail Leggings": [],
+  "Waist Apron": [],
+  "Wall Breaker": [],
+  "War Spear": [],
+  "Wardrummer": [],
+  "Warlord": [],
+  "Warming Heart": [],
+  "Warped Skin": [],
+  "Watch Bracelet": [],
+  "Water Mask": [],
+  "Water Relic Boots": [],
+  "Water Relic Bow": [],
+  "Water Relic Chestplate": [],
+  "Water Relic Daggers": [],
+  "Water Relic Helmet": [],
+  "Water Relic Leggings": [],
+  "Water Relic Relik": [],
+  "Water Relic Spear": [],
+  "Water Relic Wand": [],
+  "Water Sanctuary": [],
+  "Waterfall Thyme": [],
+  "Waterlogged Branch": [],
+  "Watery Aura": [],
+  "Waxed Overalls": [],
+  "Weakening Catalyst": [],
+  "Weathered Idol": [],
+  "Web Plate": [],
+  "Web Spitter": [],
+  "Webbed Glass Charm": [],
+  "Webbed Offshoot": [],
+  "Webstring": [],
+  "Wendigo Bone": [],
+  "Werepelt": [],
+  "Werewolf Tail": [],
+  "Whirlwind": [],
+  "White Craftmas": [],
+  "White Ghost": [],
+  "Whitecap Crown": [],
+  "Wick": [],
+  "Widow": [],
+  "Wildfire": [],
+  "Wind Ornament": [],
+  "Windcatcher Totem": [],
+  "Windmill": [],
+  "Windwhistle": [],
+  "Windy Aura": [],
+  "Wintery Aspect": [],
+  "Wipe": [],
+  "Wishing Star": [],
+  "Witherhead's Bow": [],
+  "Witherhead's Talisman": [],
+  "Wolf Fang": [],
+  "Wolf Tagger": [],
+  "Woljawh": [],
+  "Wood Hammer": [],
+  "Wood Scrap": [],
+  "Wood Shavings": [],
+  "Wood Snippet": [],
+  "Wool": [],
+  "Wooly Armour": [],
+  "Wooly Cap": [],
+  "Wooly Long Johns": [],
+  "World Illuminator": [],
+  "Worn Coin": [],
+  "Worn Golden Boots": [],
+  "Worn Golden Chestplate": [],
+  "Worn Golden Helmet": [],
+  "Worn Golden Leggings": [],
+  "Worn Memorabilia": [],
+  "Wriggling Darkness": [
+    {
+      "type": "bossaltar",
+      "name": "Challenge of Blades"
+    }
+  ],
+  "Wriggling Wooden Arm": [],
+  "Wristviewer": [],
+  "Writhing Growth": [],
+  "Wybel Fluff": [],
+  "Wybel Paw": [],
+  "Wybel Taffy": [],
+  "Wynnter Fair 2016 Souvenir": [
+    {
+      "type": "discontinued",
+      "description": "Event"
+    }
+  ],
+  "Wynnter Fair 2017 Souvenir": [
+    {
+      "type": "unobtainable",
+      "description": "Unobtainable"
+    }
+  ],
+  "Wynnter Scarf": [],
+  "Wynnterfest 2016 Souvenir": [
+    {
+      "type": "discontinued",
+      "description": "Event"
+    }
+  ],
+  "Yellow Content Cap of Fame": [
+    {
+      "type": "discontinued",
+      "description": "Event"
+    }
+  ],
+  "Yellow Ornament": [],
+  "Yellow Rose": [],
+  "Yeti Fur": [],
+  "Yuletide": [],
+  "Zawah Jed": [],
+  "Zenith": [],
+  "Zhight Beaded Broach": [],
+  "Zhight Coral Band": [],
+  "Zhight Coral Piece": [],
+  "Zhight Herbal Mix": [],
+  "Zhight Powwow Bangle": [],
+  "Zhight Shiny Ring": [],
+  "Zhight Shiny Stone": [],
+  "Zhight Souvenir Coin": [],
+  "Zhight Weird Magic Necklace": [],
+  "Zhight Weird Magic Rock": [],
+  "Zombie Brain": [],
+  "Zombie Eye": [],
+  "default": [
+    {
+      "type": "unobtainable",
+      "description": "Unobtainable"
+    }
+  ]
+}

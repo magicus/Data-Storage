@@ -1,0 +1,26 @@
+{
+  "Ensa's Faith": [
+    {
+      "type": "forgerychest",
+      "details": {
+        "description": "Can be obtained from a Forgery chest"
+      }
+    }
+  ],
+  "Remikas' Authority": [
+    {
+      "type": "forgerychest",
+      "details": {
+        "description": "Requires tier 5+ chest"
+      }
+    }
+  ],
+  "Tisaun's Valor": [
+    {
+      "type": "forgerychest",
+      "details": {
+        "description": "Can be obtained from a Forgery chest"
+      }
+    }
+  ]
+}

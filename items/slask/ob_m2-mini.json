@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Ablution",
+    "merchant": [
+      {
+        "name": "Almuj Weapon Merchant",
+        "location": "Almuj",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "104"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Acevro",
+    "merchant": [
+      {
+        "name": "Cinfras Weapon Merchant",
+        "location": "Cinfras",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "2253"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gathering Axe T1",
+    "merchant": [
+      {
+        "name": "Tool Merchant",
+        "location": "Detlas far suburbs",
+        "coords": {
+          "x": "182",
+          "y": "68",
+          "z": "-1607"
+        },
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "4"
+          }
+        ]
+      },
+      {
+        "name": "Tool Merchant",
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gathering Axe T2",
+    "merchant": [
+      {
+        "name": "Tool Merchant",
+        "location": "Detlas far suburbs",
+        "coords": {
+          "x": "182",
+          "y": "68",
+          "z": "-1607"
+        },
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "12"
+          }
+        ]
+      },
+      {
+        "name": "Tool Merchant",
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "12"
+          }
+        ]
+      }
+    ]
+  }]

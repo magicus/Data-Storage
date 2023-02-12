@@ -1,0 +1,977 @@
+[
+  {
+    "name": "Gathering Axe T1",
+    "merchant": [
+      {
+        "name": "Tool Merchant",
+        "location": "Detlas far suburbs",
+        "coords": {
+          "x": "182",
+          "y": "68",
+          "z": "-1607"
+        },
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "4"
+          }
+        ]
+      },
+      {
+        "name": "Tool Merchant",
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gathering Axe T2",
+    "merchant": [
+      {
+        "name": "Tool Merchant",
+        "location": "Detlas far suburbs",
+        "coords": {
+          "x": "182",
+          "y": "68",
+          "z": "-1607"
+        },
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "12"
+          }
+        ]
+      },
+      {
+        "name": "Tool Merchant",
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gathering Hoe T1",
+    "merchant": [
+      {
+        "name": "Tool Merchant",
+        "location": "Detlas far suburbs",
+        "coords": {
+          "x": "182",
+          "y": "68",
+          "z": "-1607"
+        },
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "4"
+          }
+        ]
+      },
+      {
+        "name": "Tool Merchant",
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gathering Hoe T2",
+    "merchant": [
+      {
+        "name": "Tool Merchant",
+        "location": "Detlas far suburbs",
+        "coords": {
+          "x": "182",
+          "y": "68",
+          "z": "-1607"
+        },
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "12"
+          }
+        ]
+      },
+      {
+        "name": "Tool Merchant",
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gathering Pickaxe T1",
+    "merchant": [
+      {
+        "name": "Tool Merchant",
+        "location": "Detlas far suburbs",
+        "coords": {
+          "x": "182",
+          "y": "68",
+          "z": "-1607"
+        },
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "4"
+          }
+        ]
+      },
+      {
+        "name": "Tool Merchant",
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gathering Pickaxe T2",
+    "merchant": [
+      {
+        "name": "Tool Merchant",
+        "location": "Detlas far suburbs",
+        "coords": {
+          "x": "182",
+          "y": "68",
+          "z": "-1607"
+        },
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "12"
+          }
+        ]
+      },
+      {
+        "name": "Tool Merchant",
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gathering Rod T1",
+    "merchant": [
+      {
+        "name": "Tool Merchant",
+        "location": "Detlas far suburbs",
+        "coords": {
+          "x": "182",
+          "y": "68",
+          "z": "-1607"
+        },
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "4"
+          }
+        ]
+      },
+      {
+        "name": "Tool Merchant",
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Gathering Rod T2",
+    "merchant": [
+      {
+        "name": "Tool Merchant",
+        "location": "Detlas far suburbs",
+        "coords": {
+          "x": "182",
+          "y": "68",
+          "z": "-1607"
+        },
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "12"
+          }
+        ]
+      },
+      {
+        "name": "Tool Merchant",
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "12"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potato",
+    "merchant": [
+      {
+        "screenshots": "https://imgur.com/1pgIoAE, https://imgur.com/EF9K6Hs",
+        "name": "Potato Merchant",
+        "location": "Rymek Market",
+        "coords": {
+          "x": "1296 ",
+          "y": "31 ",
+          "z": "-1273"
+        },
+        "price": [
+          {
+            "item": "Gold Bar",
+            "quantity": "1"
+          }
+        ]
+      },
+      {
+        "screenshots": "https://i.imgur.com/gYJ7DEd.png",
+        "name": "Potato Merchant",
+        "location": "Bremminglar",
+        "coords": {
+          "x": "650",
+          "y": "62",
+          "z": "-2086"
+        },
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "2"
+          }
+        ]
+      },
+      {
+        "screenshots": "https://imgur.com/n0XxNI5",
+        "name": "Potato Merchant",
+        "location": "Thanos",
+        "coords": {
+          "x": "180",
+          "y": "6",
+          "z": "-5288"
+        },
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "4"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Agility [Level 25]",
+    "merchant": [
+      {
+        "name": "Detlas Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "48"
+          }
+        ]
+      },
+      {
+        "name": "Nemract Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "48"
+          }
+        ]
+      },
+      {
+        "name": "Selchar Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "48"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Agility [Level 45]",
+    "merchant": [
+      {
+        "name": "Nesaak Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "192"
+          }
+        ]
+      },
+      {
+        "name": "Llevigar Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "192"
+          }
+        ]
+      },
+      {
+        "name": "Olux Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "192"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Agility [Level 85]",
+    "merchant": [
+      {
+        "name": "Rodoroc Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      },
+      {
+        "name": "Corkus Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      },
+      {
+        "name": "Eltom Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      },
+      {
+        "name": "Kandon-Beta Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Defense [Level 25]",
+    "merchant": [
+      {
+        "name": "Detlas Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "48"
+          }
+        ]
+      },
+      {
+        "name": "Nemract Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "48"
+          }
+        ]
+      },
+      {
+        "name": "Selchar Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "48"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Defense [Level 45]",
+    "merchant": [
+      {
+        "name": "Nesaak Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "192"
+          }
+        ]
+      },
+      {
+        "name": "Llevigar Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "192"
+          }
+        ]
+      },
+      {
+        "name": "Olux Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "192"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Defense [Level 85]",
+    "merchant": [
+      {
+        "name": "Rodoroc Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      },
+      {
+        "name": "Corkus Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      },
+      {
+        "name": "Eltom Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      },
+      {
+        "name": "Kandon-Beta Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Dexterity [Level 25]",
+    "merchant": [
+      {
+        "name": "Detlas Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "48"
+          }
+        ]
+      },
+      {
+        "name": "Nemract Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "48"
+          }
+        ]
+      },
+      {
+        "name": "Selchar Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "48"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Dexterity [Level 45]",
+    "merchant": [
+      {
+        "name": "Nesaak Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "192"
+          }
+        ]
+      },
+      {
+        "name": "Llevigar Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "192"
+          }
+        ]
+      },
+      {
+        "name": "Olux Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "192"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Dexterity [Level 85]",
+    "merchant": [
+      {
+        "name": "Rodoroc Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      },
+      {
+        "name": "Corkus Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      },
+      {
+        "name": "Eltom Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      },
+      {
+        "name": "Kandon-Beta Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Healing [Level 100]",
+    "merchant": [
+      {
+        "name": "Ahmsord Potion Merchant",
+        "price": [
+          {
+            "item": "62x Emeralds"
+          }
+        ]
+      },
+      {
+        "name": "Rodoroc Potion Merchant",
+        "price": [
+          {
+            "item": "62x Emeralds"
+          }
+        ]
+      },
+      {
+        "name": "Maex Potion Merchant",
+        "price": [
+          {
+            "item": "62x Emeralds"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Healing [Level 95]",
+    "merchant": [
+      {
+        "name": "Ahmsord Potion Merchant",
+        "price": [
+          {
+            "item": "58x Emeralds"
+          }
+        ]
+      },
+      {
+        "name": "Rodoroc Potion Merchant",
+        "price": [
+          {
+            "item": "58x Emeralds"
+          }
+        ]
+      },
+      {
+        "name": "Maex Potion Merchant",
+        "price": [
+          {
+            "item": "58x Emeralds"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Intelligence [Level 25]",
+    "merchant": [
+      {
+        "name": "Detlas Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "48"
+          }
+        ]
+      },
+      {
+        "name": "Nemract Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "48"
+          }
+        ]
+      },
+      {
+        "name": "Selchar Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "48"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Intelligence [Level 45]",
+    "merchant": [
+      {
+        "name": "Nesaak Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "192"
+          }
+        ]
+      },
+      {
+        "name": "Llevigar Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "192"
+          }
+        ]
+      },
+      {
+        "name": "Olux Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "192"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Intelligence [Level 85]",
+    "merchant": [
+      {
+        "name": "Rodoroc Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      },
+      {
+        "name": "Corkus Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      },
+      {
+        "name": "Eltom Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      },
+      {
+        "name": "Kandon-Beta Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Mana [Level 100]",
+    "merchant": [
+      {
+        "name": "Ahmsord Potion Merchant",
+        "price": [
+          {
+            "item": "768x Emeralds (12eb)"
+          }
+        ]
+      },
+      {
+        "name": "Rodoroc Potion Merchant",
+        "price": [
+          {
+            "item": "768x Emeralds (12eb)"
+          }
+        ]
+      },
+      {
+        "name": "Maex Potion Merchant",
+        "price": [
+          {
+            "item": "768x Emeralds (12eb)"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Strength [Level 25]",
+    "merchant": [
+      {
+        "name": "Detlas Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "48"
+          }
+        ]
+      },
+      {
+        "name": "Nemract Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "48"
+          }
+        ]
+      },
+      {
+        "name": "Selchar Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "48"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Strength [Level 45]",
+    "merchant": [
+      {
+        "name": "Nesaak Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "192"
+          }
+        ]
+      },
+      {
+        "name": "Llevigar Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "192"
+          }
+        ]
+      },
+      {
+        "name": "Olux Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "192"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Strength [Level 85]",
+    "merchant": [
+      {
+        "name": "Rodoroc Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      },
+      {
+        "name": "Corkus Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      },
+      {
+        "name": "Eltom Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      },
+      {
+        "name": "Kandon-Beta Potion Merchant",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "576"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Wisdom [Level 65]",
+    "merchant": [
+      {
+        "name": "Treasure Prize Merchant",
+        "location": "Zhight Island",
+        "coords": {
+          "x": "-640",
+          "y": "42",
+          "z": "-2660"
+        },
+        "price": [
+          {
+            "item": "Zhight Gold",
+            "quantity": "30"
+          }
+        ]
+      },
+      {
+        "name": "Zhight Brew Merchant",
+        "location": "Zhight Island",
+        "coords": {
+          "x": "-575",
+          "y": "38",
+          "z": "-2792"
+        },
+        "price": [
+          {
+            "item": "Zhight Money",
+            "quantity": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Potion of Wisdom [Level 45]",
+    "merchant": [
+      {
+        "name": "Treasure Prize Merchant",
+        "location": "Zhight Island",
+        "coords": {
+          "x": "-640",
+          "y": "42",
+          "z": "-2660"
+        },
+        "price": [
+          {
+            "item": "Zhight Gold",
+            "quantity": "20"
+          }
+        ]
+      },
+      {
+        "name": "Zhight Brew Merchant",
+        "location": "Zhight Island",
+        "coords": {
+          "x": "-575",
+          "y": "38",
+          "z": "-2792"
+        },
+        "price": [
+          {
+            "item": "Zhight Money",
+            "quantity": "1"
+          }
+        ]
+      }
+    ]
+  }
+]

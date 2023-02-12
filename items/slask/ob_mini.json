@@ -1,0 +1,127 @@
+[
+  {
+    "name": "7-Yottabyte Storage Component",
+    "specialdrop": [
+      {
+        "description": "Really fast moving small mob that spawns on Corkus Island Around Corkus City",
+        "screenshots": "https://imgur.com/MSZHN5Y",
+        "name": "T-55 Elusive Surveillance Camera",
+        "location": "South Corkus shore, Corkus Island"
+      }
+    ]
+  },
+  {
+    "name": "Abdomen",
+    "dungeonmerchant": [
+      {
+        "name": "Infested Pit",
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "2"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ablution",
+    "merchant": [
+      {
+        "name": "Almuj Weapon Merchant",
+        "location": "Almuj",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "104"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Abolition",
+    "dungeonmerchant": [
+      {
+        "name": "Underworld Crypt",
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "5"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Abrasion",
+    "raid": "The Canyon Colossus"
+  },
+  {
+    "name": "Abyss-Imbued Leggings",
+    "hive": {
+      "name": "Hive Master Division",
+      "price": [
+        {
+          "item": "Master Voucher",
+          "quantity": "1"
+        }
+      ]
+    }
+  },
+  {
+    "name": "Abyssal Amulet",
+    "quest": {
+      "name": "Eye of the Storm"
+    }
+  },
+  {
+    "name": "Abysso Galoshes",
+    "quest": {
+      "name": "Beneath the Depths"
+    }
+  },
+  {
+    "name": "Accursed Effigy",
+    "specialdrop": [
+      {
+        "screenshots": "https://imgur.com/Kc0h7Xl",
+        "name": "Obelisk of Inversion",
+        "location": "Kander Forest"
+      }
+    ]
+  },
+  {
+    "name": "Acevro",
+    "merchant": [
+      {
+        "name": "Cinfras Weapon Merchant",
+        "location": "Cinfras",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "2253"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Achilles",
+    "dungeonmerchant": [
+      {
+        "name": "Corrupted Underworld Crypt",
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "default",
+    "unobtainable": "Unobtainable"
+  }
+]

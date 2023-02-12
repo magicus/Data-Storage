@@ -1,0 +1,1144 @@
+{
+  "Bronze Basic Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Bronze Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Bronze Tokens",
+            "quantity": "10"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Bronze Basic Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Bronze Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Bronze Tokens",
+            "quantity": "10"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Bronze Basic Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Bronze Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Bronze Tokens",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Fiber Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Tokens",
+            "quantity": "2"
+          },
+          {
+            "item": "Gold Fiber Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Fiber Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Tokens",
+            "quantity": "2"
+          },
+          {
+            "item": "Gold Fiber Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Fiber Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Token",
+            "quantity": "1"
+          },
+          {
+            "item": "Gold Fiber Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Fusion Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Tokens",
+            "quantity": "2"
+          },
+          {
+            "item": "Gold Fusion Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Fusion Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Tokens",
+            "quantity": "2"
+          },
+          {
+            "item": "Gold Fusion Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Fusion Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Token",
+            "quantity": "1"
+          },
+          {
+            "item": "Gold Fusion Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Hydro Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Tokens",
+            "quantity": "2"
+          },
+          {
+            "item": "Gold Hydro Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Hydro Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Tokens",
+            "quantity": "2"
+          },
+          {
+            "item": "Gold Hydro Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Hydro Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Token",
+            "quantity": "1"
+          },
+          {
+            "item": "Gold Hydro Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Solar Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Tokens",
+            "quantity": "2"
+          },
+          {
+            "item": "Gold Solar Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Solar Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Tokens",
+            "quantity": "2"
+          },
+          {
+            "item": "Gold Solar Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Solar Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Token",
+            "quantity": "1"
+          },
+          {
+            "item": "Gold Solar Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Static Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Tokens",
+            "quantity": "2"
+          },
+          {
+            "item": "Gold Static Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Static Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Tokens",
+            "quantity": "2"
+          },
+          {
+            "item": "Gold Static Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Static Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Token",
+            "quantity": "1"
+          },
+          {
+            "item": "Gold Static Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Steam Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Tokens",
+            "quantity": "2"
+          },
+          {
+            "item": "Gold Steam Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Steam Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Tokens",
+            "quantity": "2"
+          },
+          {
+            "item": "Gold Steam Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Diamond Steam Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Token",
+            "quantity": "1"
+          },
+          {
+            "item": "Gold Steam Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Fiber Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "6"
+          },
+          {
+            "item": "Silver Fiber Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Fiber Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "6"
+          },
+          {
+            "item": "Silver Fiber Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Fiber Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "3"
+          },
+          {
+            "item": "Silver Fiber Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Fusion Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "6"
+          },
+          {
+            "item": "Silver Fusion Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Fusion Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "6"
+          },
+          {
+            "item": "Silver Fusion Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Fusion Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "3"
+          },
+          {
+            "item": "Silver Fusion Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Hydro Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "6"
+          },
+          {
+            "item": "Silver Hydro Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Hydro Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "6"
+          },
+          {
+            "item": "Silver Hydro Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Hydro Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "3"
+          },
+          {
+            "item": "Silver Hydro Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Solar Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "6"
+          },
+          {
+            "item": "Silver Solar Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Solar Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "6"
+          },
+          {
+            "item": "Silver Solar Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Solar Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "3"
+          },
+          {
+            "item": "Silver Solar Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Static Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "6"
+          },
+          {
+            "item": "Silver Static Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Static Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "6"
+          },
+          {
+            "item": "Silver Static Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Static Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "3"
+          },
+          {
+            "item": "Silver Static Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Steam Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "6"
+          },
+          {
+            "item": "Silver Steam Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Steam Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "6"
+          },
+          {
+            "item": "Silver Steam Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gold Steam Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Gold Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Gold Tokens",
+            "quantity": "3"
+          },
+          {
+            "item": "Silver Steam Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Legendary Medallion": [
+    {
+      "type": "legendaryisland",
+      "name": "Diamond Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Diamond Tokens",
+            "quantity": "128"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Fiber Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "8"
+          },
+          {
+            "item": "Bronze Fiber Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Fiber Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "8"
+          },
+          {
+            "item": "Bronze Fiber Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Fiber Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "4"
+          },
+          {
+            "item": "Bronze Fiber Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Fusion Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "8"
+          },
+          {
+            "item": "Bronze Fusion Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Fusion Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "8"
+          },
+          {
+            "item": "Bronze Fusion Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Fusion Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "4"
+          },
+          {
+            "item": "Bronze Fusion Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Hydro Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "8"
+          },
+          {
+            "item": "Bronze Hydro Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Hydro Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "8"
+          },
+          {
+            "item": "Bronze Hydro Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Hydro Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "4"
+          },
+          {
+            "item": "Bronze Hydro Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Solar Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "8"
+          },
+          {
+            "item": "Bronze Solar Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Solar Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "8"
+          },
+          {
+            "item": "Bronze Solar Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Solar Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "4"
+          },
+          {
+            "item": "Bronze Solar Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Static Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "8"
+          },
+          {
+            "item": "Bronze Static Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Static Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "8"
+          },
+          {
+            "item": "Bronze Static Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Static Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "4"
+          },
+          {
+            "item": "Bronze Static Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Steam Bracelet": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "8"
+          },
+          {
+            "item": "Bronze Steam Bracelet",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Steam Necklace": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "8"
+          },
+          {
+            "item": "Bronze Steam Necklace",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silver Steam Ring": [
+    {
+      "type": "legendaryisland",
+      "name": "Silver Rewards Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "Silver Tokens",
+            "quantity": "4"
+          },
+          {
+            "item": "Bronze Steam Ring",
+            "quantity": 1
+          }
+        ]
+      }
+    }
+  ]
+}

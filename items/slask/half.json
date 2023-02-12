@@ -1,0 +1,53 @@
+{
+  "Ablution": [
+    {
+      "name": "Almuj Weapon Merchant",
+      "location": "Almuj",
+      "price": [
+        {
+          "item": "Emeralds",
+          "quantity": "104"
+        }
+      ]
+    }
+  ],
+  "Groff": [
+    {
+      "name": "Grof Merchant",
+      "location": "Groffy",
+      "price": [
+        {
+          "item": "Emeralds",
+          "quantity": "104"
+        }
+      ]
+    }
+  ],
+  "Gathering Axe T1": [
+    {
+      "name": "Tool Merchant",
+      "location": "Detlas far suburbs",
+      "coords": {
+        "x": "182",
+        "y": "68",
+        "z": "-1607"
+      },
+      "price": [
+        {
+          "item": "Emeralds",
+          "quantity": "4"
+        }
+      ]
+    },
+    {
+      "name": "Tool Merchant",
+      "location": "Nemract",
+      "price": [
+        {
+          "item": "Emeralds",
+          "quantity": "4"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "Gathering Axe T1": [
+    {
+      "type": "merchant",
+      "name": "Tool Merchant",
+      "details": {
+        "location": "Detlas far suburbs",
+        "coords": {
+          "x": "182",
+          "y": "68",
+          "z": "-1607"
+        },
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "4"
+          }
+        ]
+      }
+    },
+    {
+      "type": "merchant",
+      "name": "Tool Merchant",
+      "details": {
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Axe T2": [
+    {
+      "type": "merchant",
+      "name": "Tool Merchant",
+      "details": {
+        "location": "Detlas far suburbs",
+        "coords": {
+          "x": "182",
+          "y": "68",
+          "z": "-1607"
+        },
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "12"
+          }
+        ]
+      }
+    },
+    {
+      "type": "merchant",
+      "name": "Tool Merchant",
+      "details": {
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "12"
+          }
+        ]
+      }
+    }
+  ]
+}

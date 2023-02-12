@@ -1,0 +1,65 @@
+{
+  "Ablution": [
+    {
+      "type": "merchant",
+      "name": "Almuj Weapon Merchant",
+      "details": {
+        "location": "Ablution",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "104"
+          }
+        ]
+      }
+    }
+  ],
+  "Groff": [
+    {
+      "type": "merchant",
+      "name": "Grof Merchant",
+      "details": {
+        "location": "Groff",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "104"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Axe T1": [
+    {
+      "type": "merchant",
+      "name": "Tool Merchant",
+      "details": {
+        "location": "Detlas far suburbs",
+        "coords": {
+          "x": "182",
+          "y": "68",
+          "z": "-1607"
+        },
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "4"
+          }
+        ]
+      }
+    },
+    {
+      "type": "merchant",
+      "name": "Tool Merchant",
+      "details": {
+        "location": "Nemract",
+        "price": [
+          {
+            "item": "Emeralds",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ]
+}

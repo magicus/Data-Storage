@@ -1,0 +1,18 @@
+{
+  "Abrasion": [
+    {
+      "type": "dungeon",
+      "name": "Infested Pit"
+    }
+  ],
+  "Gale's Sight": [
+    {
+      "type": "dungeon",
+      "name": "Corrupted Lost Sanctuary"
+    },
+    {
+      "type": "dungeon",
+      "name": "Corrupted Underworld Crypt"
+    }
+  ]
+}

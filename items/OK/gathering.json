@@ -1,0 +1,22 @@
+{
+  "Brown Mushroom": [
+    {
+      "type": "gathering",
+      "name": "Mushroom",
+      "details": {
+        "screenshots": "https://imgur.com/G6pU7dA",
+        "location": "Nivla Forest"
+      }
+    }
+  ],
+  "Red Mushroom": [
+    {
+      "type": "gathering",
+      "name": "Mushroom",
+      "details": {
+        "screenshots": "https://imgur.com/G6pU7dA",
+        "location": "Nivla Forest"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "Abrasion": [
+    {
+      "type": "raid",
+      "name": "The Canyon Colossus"
+    }
+  ],
+  "Cacophony": [
+    {
+      "type": "raid",
+      "name": "Orphion's Nexus of Light"
+    }
+  ],
+  "Eyes on All": [
+    {
+      "type": "raid",
+      "name": "Nest of the Grootslangs"
+    }
+  ],
+  "Homeorhesis": [
+    {
+      "type": "raid",
+      "name": "Nest of the Grootslangs"
+    }
+  ],
+  "Metamorphosis": [
+    {
+      "type": "raid",
+      "name": "Nest of the Grootslangs"
+    }
+  ],
+  "Recalcitrance": [
+    {
+      "type": "raid",
+      "name": "The Canyon Colossus"
+    }
+  ]
+}

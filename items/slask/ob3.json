@@ -1,0 +1,453 @@
+{
+  "name": "Abrasion",
+  "raid": "The Canyon Colossus"
+}
+{
+  "name": "Acidic Solution",
+  "bossaltar": "Plague Laboratory"
+}
+{
+  "name": "Adamastor's Faceplate",
+  "bossaltar": "Aerie of the Recluse"
+}
+{
+  "name": "Anxiolytic",
+  "bossaltar": "Bottomless Pit"
+}
+{
+  "name": "Aqua Vitae",
+  "bossaltar": "Plague Laboratory"
+}
+{
+  "name": "Arakadicus' Body",
+  "dungeon": [
+    "Infested Pit"
+  ]
+}
+{
+  "name": "Back-Up Plan",
+  "bossaltar": "Altar of Sanctification"
+}
+{
+  "name": "Beef Tongue",
+  "bossaltar": "Bovine Barn"
+}
+{
+  "name": "Binding Brace",
+  "bossaltar": "Prison of Souls"
+}
+{
+  "name": "Black Sulphur",
+  "bossaltar": "Sunrise Canyon"
+}
+{
+  "name": "Blade of Shade",
+  "bossaltar": "Challenge of the Blades"
+}
+{
+  "name": "Bonder",
+  "bossaltar": "The Orange Wybel"
+}
+{
+  "name": "Borange Fluff",
+  "bossaltar": "The Orange Wybel"
+}
+{
+  "name": "Braker",
+  "bossaltar": "The Orange Wybel"
+}
+{
+  "name": "Breakbore",
+  "bossaltar": "Geyser Pit"
+}
+{
+  "name": "Cacophony",
+  "raid": "Orphion's Nexus of Light"
+}
+{
+  "name": "Capsid Frame",
+  "bossaltar": "Magmastream Core"
+}
+{
+  "name": "Coalescence",
+  "bossaltar": "Bottomless Pit"
+}
+{
+  "name": "Constrict Collar",
+  "bossaltar": "Prison of Souls"
+}
+{
+  "name": "Corn Husk",
+  "bossaltar": "Bovine Barn",
+  "specialdrop": [
+    {
+      "screenshots": "https://imgur.com/nOEx6tH, https://imgur.com/aAcvvB9",
+      "name": "Durum Scarecrow",
+      "location": "Durum Isles, Oat Farm",
+      "coords": {
+        "x": "524",
+        "y": "42",
+        "z": "-2820"
+      }
+    },
+    {
+      "screenshots": "https://imgur.com/nOEx6tH, https://imgur.com/T2XZJK7",
+      "name": "Durum Scarecrow",
+      "location": "Durum Isles, Malt Farm",
+      "coords": {
+        "x": "370",
+        "y": "38",
+        "z": "-2823"
+      }
+    },
+    {
+      "screenshots": "https://imgur.com/nOEx6tH, https://imgur.com/Rj0BJ13",
+      "name": "Durum Scarecrow",
+      "location": "Durum Isles, Barley Farm",
+      "coords": {
+        "x": "560",
+        "y": "38",
+        "z": "-2968"
+      }
+    }
+  ]
+}
+{
+  "name": "Crossbolt",
+  "bossaltar": "Rotten Passage"
+}
+{
+  "name": "Crystal Coil",
+  "bossaltar": "Magmastream Core"
+}
+{
+  "name": "Deadeye",
+  "bossaltar": "Sunrise Canyon"
+}
+{
+  "name": "Dissociation",
+  "bossaltar": "Bottomless Pit"
+}
+{
+  "name": "Dondasch",
+  "bossaltar": "Aerie of the Recluse"
+}
+{
+  "name": "Durum's Serenity",
+  "bossaltar": "Bovine Barn"
+}
+{
+  "name": "Eidolon",
+  "bossaltar": "Aerie of the Recluse"
+}
+{
+  "name": "Empty Casings",
+  "bossaltar": "Sunrise Canyon"
+}
+{
+  "name": "Eye of The Beast",
+  "bossaltar": "Prison of Souls"
+}
+{
+  "name": "Eyes on All",
+  "raid": "Nest of the Grootslangs"
+}
+{
+  "name": "Fragmentation",
+  "bossaltar": "Bottomless Pit"
+}
+{
+  "name": "Gale's Sight",
+  "dungeon": [
+    "Corrupted Lost Sanctuary",
+    "Corrupted Underworld Crypt"
+  ]
+}
+{
+  "name": "Greenhoof",
+  "bossaltar": "Bovine Barn"
+}
+{
+  "name": "Haros' Broken Badge",
+  "bossaltar": "Rotten Passage"
+}
+{
+  "name": "Haros' Oar",
+  "bossaltar": "Rotten Passage"
+}
+{
+  "name": "Helm Splitter",
+  "bossaltar": "Altar of Sanctification"
+}
+{
+  "name": "Homeorhesis",
+  "raid": "Nest of the Grootslangs"
+}
+{
+  "name": "Kahontsi Ohstyen",
+  "bossaltar": "Tribal Sanctuary"
+}
+{
+  "name": "Large Titanium Chunk",
+  "bossaltar": "Altar of Sanctification"
+}
+{
+  "name": "Legend Guard's Plate",
+  "bossaltar": "Arena of the Legends"
+}
+{
+  "name": "Lower",
+  "bossaltar": "The Orange Wybel"
+}
+{
+  "name": "Marius' Prison",
+  "bossaltar": "Prison of Souls"
+}
+{
+  "name": "Metamorphosis",
+  "raid": "Nest of the Grootslangs"
+}
+{
+  "name": "Mixed Jewel Deposit",
+  "bossaltar": "Geyser Pit"
+}
+{
+  "name": "Mixed Mineral Deposit",
+  "bossaltar": "Geyser Pit"
+}
+{
+  "name": "More-Pearlescent Jewel",
+  "bossaltar": "Arena of the Legends"
+}
+{
+  "name": "Nightmare Fuel",
+  "bossaltar": "Prison of Souls"
+}
+{
+  "name": "Nona",
+  "bossaltar": "Aerie of the Recluse"
+}
+{
+  "name": "Obolus",
+  "bossaltar": "Rotten Passage"
+}
+{
+  "name": "Ohonte Kerhite",
+  "bossaltar": "Tribal Sanctuary"
+}
+{
+  "name": "Onenya Hronkas",
+  "bossaltar": "Tribal Sanctuary"
+}
+{
+  "name": "Panic Zealot",
+  "bossaltar": "Bottomless Pit"
+}
+{
+  "name": "Phage Pins",
+  "bossaltar": "Magmastream Core"
+}
+{
+  "name": "Piranha",
+  "dungeon": [
+    "Undergrowth Ruins"
+  ]
+}
+{
+  "name": "Plague Mask",
+  "bossaltar": "Plague Laboratory"
+}
+{
+  "name": "Plague Staff",
+  "bossaltar": "Plague Laboratory"
+}
+{
+  "name": "Powdery Bone",
+  "bossaltar": "Rotten Passage"
+}
+{
+  "name": "Purification Bead",
+  "bossaltar": "Plague Laboratory"
+}
+{
+  "name": "Quick-Strike Leggings",
+  "bossaltar": "Altar of Sanctification"
+}
+{
+  "name": "Ra",
+  "dungeon": [
+    "Sand-Swept Tomb"
+  ]
+}
+{
+  "name": "Rat Skull",
+  "dungeon": [
+    "Decrepit Sewers"
+  ]
+}
+{
+  "name": "Recalcitrance",
+  "raid": "The Canyon Colossus"
+}
+{
+  "name": "Redrock Bandanna",
+  "bossaltar": "Sunrise Canyon"
+}
+{
+  "name": "Reinforced Leather",
+  "bossaltar": "Bovine Barn"
+}
+{
+  "name": "Resistant Strain",
+  "bossaltar": "Magmastream Core"
+}
+{
+  "name": "Router's Shield",
+  "bossaltar": "Rotten Passage"
+}
+{
+  "name": "Scopaesthesia",
+  "bossaltar": "Bottomless Pit"
+}
+{
+  "name": "Scorpion Tail",
+  "dungeon": [
+    "Sand-Swept Tomb"
+  ]
+}
+{
+  "name": "Scuttling Syenite",
+  "bossaltar": "Magmastream Core"
+}
+{
+  "name": "Shackle of Shade",
+  "bossaltar": "Challenge of the Blades"
+}
+{
+  "name": "Shackles of the Beast",
+  "bossaltar": "Prison of Souls"
+}
+{
+  "name": "Shadestep",
+  "bossaltar": "Challenge of the Blades"
+}
+{
+  "name": "Shiny Mineral Deposit",
+  "bossaltar": "Geyser Pit"
+}
+{
+  "name": "Silkwrap",
+  "dungeon": [
+    "Infested Pit"
+  ]
+}
+{
+  "name": "Slider",
+  "bossaltar": "The Orange Wybel"
+}
+{
+  "name": "Spider Bracelet",
+  "dungeon": [
+    "Infested Pit"
+  ]
+}
+{
+  "name": "Spider's Eye Pendant",
+  "dungeon": [
+    "Infested Pit",
+    "Lost Sanctuary"
+  ]
+}
+{
+  "name": "Spiderweb String",
+  "dungeon": [
+    "Infested Pit"
+  ]
+}
+{
+  "name": "Spiked Capsule",
+  "bossaltar": "Plague Laboratory"
+}
+{
+  "name": "Stave of the Legends",
+  "bossaltar": "Arena of the Legends"
+}
+{
+  "name": "Stinger",
+  "bossaltar": "The Orange Wybel"
+}
+{
+  "name": "Subsuming Darkness",
+  "bossaltar": "Challenge of Blades"
+}
+{
+  "name": "Summa",
+  "bossaltar": "Geyser Pit"
+}
+{
+  "name": "Sundown Poncho",
+  "bossaltar": "Sunrise Canyon"
+}
+{
+  "name": "Tera",
+  "bossaltar": "Geyser Pit"
+}
+{
+  "name": "The Scarecrow's Vest",
+  "bossaltar": "Bovine Barn"
+}
+{
+  "name": "Thermal Replication",
+  "bossaltar": "Magmastream Core"
+}
+{
+  "name": "Titanium Chunk",
+  "bossaltar": "Altar of Sanctification"
+}
+{
+  "name": "Trainer's Pendant",
+  "bossaltar": "Arena of the Legends"
+}
+{
+  "name": "Urdar's Stone",
+  "bossaltar": "Aerie of the Recluse"
+}
+{
+  "name": "Vertebra",
+  "dungeon": [
+    "Decrepit Sewers"
+  ]
+}
+{
+  "name": "Web Spitter",
+  "dungeon": [
+    "Infested Pit"
+  ],
+  "dungeonmerchant": [
+    {
+      "name": "Infested Pit",
+      "price": [
+        {
+          "item": "runs",
+          "quantity": "1"
+        }
+      ]
+    }
+  ]
+}
+{
+  "name": "Webstring",
+  "dungeon": [
+    "Infested Pit"
+  ]
+}
+{
+  "name": "Witherhead's Bow",
+  "dungeon": [
+    "Decrepit Sewers"
+  ]
+}
+{
+  "name": "Wriggling Darkness",
+  "bossaltar": "Challenge of Blades"
+}

@@ -1,0 +1,91 @@
+{
+  "Anya's Penumbra": [
+    {
+      "type": "discovery",
+      "details": {
+        "description": "The Fate of the Olm (Silent Expanse Discovery)"
+      }
+    }
+  ],
+  "Clock Amulet": [
+    {
+      "type": "discovery",
+      "details": {
+        "description": "Clock mystery"
+      }
+    }
+  ],
+  "Clock Boots": [
+    {
+      "type": "discovery",
+      "details": {
+        "description": "Clock mystery"
+      }
+    }
+  ],
+  "Clock Helm": [
+    {
+      "type": "discovery",
+      "details": {
+        "description": "Clock mystery"
+      }
+    }
+  ],
+  "Clock Leggings": [
+    {
+      "type": "discovery",
+      "details": {
+        "description": "Clock mystery"
+      }
+    }
+  ],
+  "Clock Mail": [
+    {
+      "type": "discovery",
+      "details": {
+        "description": "Clock mystery"
+      }
+    }
+  ],
+  "Clockwork Ring": [
+    {
+      "type": "discovery",
+      "details": {
+        "description": "Clock mystery"
+      }
+    }
+  ],
+  "Necklace of a Thousand Storms": [
+    {
+      "type": "discovery",
+      "details": {
+        "description": "Necklace of a Thousand Storms puzzle"
+      }
+    }
+  ],
+  "Spiketop": [
+    {
+      "type": "discovery",
+      "details": {
+        "description": "Far From the Roots, Dropped from the Corrupted Egg at the end of the cave",
+        "screenshots": "https://imgur.com/p8B00gw, https://imgur.com/eevgJwS"
+      }
+    }
+  ],
+  "Time Ring": [
+    {
+      "type": "discovery",
+      "details": {
+        "description": "Clock mystery"
+      }
+    }
+  ],
+  "Watch Bracelet": [
+    {
+      "type": "discovery",
+      "details": {
+        "description": "Clock mystery"
+      }
+    }
+  ]
+}

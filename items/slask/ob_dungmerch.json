@@ -1,0 +1,3678 @@
+{
+  "Abdomen": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Abolition": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ],
+  "Achilles": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Admiral": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Galleon's Graveyard",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Air Sanctuary": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Lost Sanctuary",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Algaa": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Galleon's Graveyard",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Ambivalence": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Dungeon Merchant",
+      "details": {
+        "location": "Eldritch Outlook Dungeon",
+        "coords": {
+          "x": "1300",
+          "y": "87",
+          "z": "-749"
+        },
+        "price": [
+          {
+            "item": "The Eye's Pupils",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Anti-Static": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Fallen Factory",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Argos": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Azotar": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Galleon's Graveyard Dungeon Merchant",
+      "details": {
+        "location": "Galleon's Graveyard",
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Bane": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Barbed": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Undergrowth Ruins",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Black Amaranth": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Undergrowth Ruins",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Slykaar's Heart",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Black Catalyst": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Black Ripper": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Blasphemy": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Ice Barrows",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Boundary": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Underworld Crypt Dungeon Merchant",
+      "details": {
+        "location": "Underworld Crypt",
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Brace of the Ninth": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Brainfreeze": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Ice Barrows",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Brise": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Lost Sanctuary",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Butterfly": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Lost Sanctuary",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Byte": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Fallen Factory",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Cathedral": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Centipede": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Lost Sanctuary",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Cephalothorax": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Chaser": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ],
+  "Closure": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Clunderthap": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Compiler": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Fallen Factory",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ],
+  "Conduit of Spirit": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Corpse": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Corrupted Nii Mukluk": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Lost Sanctuary",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Corrupted Nii Plate": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Corrupted Nii Shako": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Corrupted Uth Belt": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Sand-Swept Tomb Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Hashr's Bone",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Corrupted Uth Plume": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Underworld Crypt Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Charon's Brain",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Corrupted Uth Sandals": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Corrupted Witherhead's Bow": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Criistal": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Ice Barrows",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Cuthroat": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Undergrowth Ruins",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Damnation": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ],
+  "Dead Samurai's Plate": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Death's Reach": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Defibrillator": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Demonio": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Depth": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Desperation": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Destructor": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Discharge": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Fallen Factory",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Drain": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "Corrupted Charon's Brain",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Dune Beast Jaw": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Dune Storm": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Dust Skaters": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Dying Lobelia": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Undergrowth Ruins",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Slykaar's Heart",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Earth Sanctuary": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Lost Sanctuary",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Fangs": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Fetish": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Undergrowth Ruins",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Field": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Lost Sanctuary",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ],
+  "Final Compulsion": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Fire Sanctuary": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Lost Sanctuary",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Flashfire Gauntlet": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Undergrowth Ruins",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Slykaar's Heart",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Flashfire Knuckle": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Undergrowth Ruins",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Slykaar's Heart",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Forest Aconite": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Undergrowth Ruins",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Slykaar's Heart",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Gaping Cavity": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Eldritch Outlook",
+      "details": {
+        "price": [
+          {
+            "item": "The Eye's Pupil",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Garoth's Hope": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Lost Sanctuary",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Axe T10": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Sand-Swept Tomb Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Sand-Swept Tomb Fragments",
+            "quantity": "8"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "2048"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Underworld Crypt Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Underworld Crypt Fragment",
+            "quantity": "8"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "2048"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Axe T11": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Fallen Factory Dungeon Merchant",
+      "details": {
+        "location": "Corkus - Fallen Factory",
+        "coords": {
+          "x": "-1683",
+          "y": "77",
+          "z": "-2614"
+        },
+        "price": [
+          {
+            "item": "Fallen Factory Dungeon Fragment",
+            "quantity": "9"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "4096"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "9"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "4096"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Undergrowth Ruins",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Undergrowth Ruins Fragment",
+            "quantity": "9"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "4096"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Axe T12": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Eldritch Outlook Dungeon Merchant",
+      "details": {
+        "location": "Eldritch Outlook",
+        "price": [
+          {
+            "item": "Eldritch Outlook Fragment",
+            "quantity": "9"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "4096"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Axe T3": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Infested Pit Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Nivla Woods - Infested Pit",
+        "coords": {
+          "x": "-168",
+          "y": "63",
+          "z": "-1837"
+        },
+        "price": [
+          {
+            "item": "Infested Pit Fragment",
+            "quantity": "1"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Decrepit Sewers Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Ragni - Decrepit Sewers",
+        "coords": {
+          "x": "-922",
+          "y": "67",
+          "z": "-1877"
+        },
+        "price": [
+          {
+            "item": "Decrepit Sewers Fragment",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Axe T4": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Underworld Crypt Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Nemract - Underworld Crypt",
+        "coords": {
+          "x": "228",
+          "y": "44",
+          "z": "-1952"
+        },
+        "price": [
+          {
+            "item": "Underworld Crypt Fragment",
+            "quantity": "2"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Lost Sanctuary Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Lost Sanctuary",
+        "coords": {
+          "x": "-263",
+          "y": "62",
+          "z": "-1046"
+        },
+        "price": [
+          {
+            "item": "Lost Sanctuary Fragment",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Axe T5": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Sand-Swept Tomb Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Almuj - Sand-Swept Tomb",
+        "coords": {
+          "x": "1411",
+          "y": "94",
+          "z": "-1838"
+        },
+        "price": [
+          {
+            "item": "Sand-Swept Tomb Fragment",
+            "quantity": "3"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "64"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Axe T6": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Nesaak",
+        "coords": {
+          "x": "171",
+          "y": "79",
+          "z": "-663"
+        },
+        "price": [
+          {
+            "item": "Ice Barrows Fragment",
+            "quantity": "4"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "128"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Axe T7": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Undergrowth Ruins Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Troms - Undergrowth Ruins",
+        "coords": {
+          "x": "-633",
+          "y": "59",
+          "z": "-878"
+        },
+        "price": [
+          {
+            "item": "Undergrowth Ruins Fragment",
+            "quantity": "5"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "256"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Axe T8": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Decrepit Sewers Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Decrepit Sewers Fragment",
+            "quantity": "6"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "512"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Galleon's Graveyard Dungeon Merchant",
+      "details": {
+        "location": "Ocean - Galleon's Graveyard",
+        "coords": {
+          "x": "-588",
+          "y": "40",
+          "z": "-3553"
+        },
+        "price": [
+          {
+            "item": "Galleon's Graveyard Fragment",
+            "quantity": "6"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "512"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Axe T9": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Lost Sanctuary Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Lost Sanctuary Fragment",
+            "quantity": "7"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "1024"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Infested Pit Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Infested Pit Fragment",
+            "quantity": "7"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "1024"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Hoe T10": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Sand-Swept Tomb Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Sand-Swept Tomb Fragments",
+            "quantity": "8"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "2048"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Underworld Crypt Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Underworld Crypt Fragment",
+            "quantity": "8"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "2048"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Hoe T11": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Fallen Factory Dungeon Merchant",
+      "details": {
+        "location": "Corkus - Fallen Factory",
+        "coords": {
+          "x": "-1683",
+          "y": "77",
+          "z": "-2614"
+        },
+        "price": [
+          {
+            "item": "Fallen Factory Dungeon Fragment",
+            "quantity": "9"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "4096"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "9"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "4096"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Undergrowth Ruins",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Undergrowth Ruins Fragment",
+            "quantity": "9"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "4096"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Hoe T12": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Eldritch Outlook Dungeon Merchant",
+      "details": {
+        "location": "Eldritch Outlook",
+        "price": [
+          {
+            "item": "Eldritch Outlook Fragment",
+            "quantity": "9"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "4096"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Hoe T3": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Infested Pit Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Nivla Woods - Infested Pit",
+        "coords": {
+          "x": "-168",
+          "y": "63",
+          "z": "-1837"
+        },
+        "price": [
+          {
+            "item": "Infested Pit Fragment",
+            "quantity": "1"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Decrepit Sewers Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Ragni - Decrepit Sewers",
+        "coords": {
+          "x": "-922",
+          "y": "67",
+          "z": "-1877"
+        },
+        "price": [
+          {
+            "item": "Decrepit Sewers Fragment",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Hoe T4": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Underworld Crypt Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Nemract - Underworld Crypt",
+        "coords": {
+          "x": "228",
+          "y": "44",
+          "z": "-1952"
+        },
+        "price": [
+          {
+            "item": "Underworld Crypt Fragment",
+            "quantity": "2"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Lost Sanctuary Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Lost Sanctuary",
+        "coords": {
+          "x": "-263",
+          "y": "62",
+          "z": "-1046"
+        },
+        "price": [
+          {
+            "item": "Lost Sanctuary Fragment",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Hoe T5": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Sand-Swept Tomb Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Almuj - Sand-Swept Tomb",
+        "coords": {
+          "x": "1411",
+          "y": "94",
+          "z": "-1838"
+        },
+        "price": [
+          {
+            "item": "Sand-Swept Tomb Fragment",
+            "quantity": "3"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "64"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Hoe T6": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Nesaak",
+        "coords": {
+          "x": "171",
+          "y": "79",
+          "z": "-663"
+        },
+        "price": [
+          {
+            "item": "Ice Barrows Fragment",
+            "quantity": "4"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "128"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Hoe T7": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Undergrowth Ruins Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Troms - Undergrowth Ruins",
+        "coords": {
+          "x": "-633",
+          "y": "59",
+          "z": "-878"
+        },
+        "price": [
+          {
+            "item": "Undergrowth Ruins Fragment",
+            "quantity": "5"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "256"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Hoe T8": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Decrepit Sewers Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Decrepit Sewers Fragment",
+            "quantity": "6"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "512"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Galleon's Graveyard Dungeon Merchant",
+      "details": {
+        "location": "Ocean - Galleon's Graveyard",
+        "coords": {
+          "x": "-588",
+          "y": "40",
+          "z": "-3553"
+        },
+        "price": [
+          {
+            "item": "Galleon's Graveyard Fragment",
+            "quantity": "6"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "512"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Hoe T9": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Lost Sanctuary Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Lost Sanctuary Fragment",
+            "quantity": "7"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "1024"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Infested Pit Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Infested Pit Fragment",
+            "quantity": "7"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "1024"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Pickaxe T10": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Sand-Swept Tomb Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Sand-Swept Tomb Fragments",
+            "quantity": "8"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "2048"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Underworld Crypt Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Underworld Crypt Fragment",
+            "quantity": "8"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "2048"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Pickaxe T11": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Fallen Factory Dungeon Merchant",
+      "details": {
+        "location": "Corkus - Fallen Factory",
+        "coords": {
+          "x": "-1683",
+          "y": "77",
+          "z": "-2614"
+        },
+        "price": [
+          {
+            "item": "Fallen Factory Dungeon Fragment",
+            "quantity": "9"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "4096"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "9"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "4096"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Undergrowth Ruins",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Undergrowth Ruins Fragment",
+            "quantity": "9"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "4096"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Pickaxe T12": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Eldritch Outlook Dungeon Merchant",
+      "details": {
+        "location": "Eldritch Outlook",
+        "price": [
+          {
+            "item": "Eldritch Outlook Fragment",
+            "quantity": "9"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "4096"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Pickaxe T3": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Infested Pit Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Nivla Woods - Infested Pit",
+        "coords": {
+          "x": "-168",
+          "y": "63",
+          "z": "-1837"
+        },
+        "price": [
+          {
+            "item": "Infested Pit Fragment",
+            "quantity": "1"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Decrepit Sewers Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Ragni - Decrepit Sewers",
+        "coords": {
+          "x": "-922",
+          "y": "67",
+          "z": "-1877"
+        },
+        "price": [
+          {
+            "item": "Decrepit Sewers Fragment",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Pickaxe T4": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Underworld Crypt Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Nemract - Underworld Crypt",
+        "coords": {
+          "x": "228",
+          "y": "44",
+          "z": "-1952"
+        },
+        "price": [
+          {
+            "item": "Underworld Crypt Fragment",
+            "quantity": "2"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Lost Sanctuary Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Lost Sanctuary",
+        "coords": {
+          "x": "-263",
+          "y": "62",
+          "z": "-1046"
+        },
+        "price": [
+          {
+            "item": "Lost Sanctuary Fragment",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Pickaxe T5": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Sand-Swept Tomb Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Almuj - Sand-Swept Tomb",
+        "coords": {
+          "x": "1411",
+          "y": "94",
+          "z": "-1838"
+        },
+        "price": [
+          {
+            "item": "Sand-Swept Tomb Fragment",
+            "quantity": "3"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "64"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Pickaxe T6": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Nesaak",
+        "coords": {
+          "x": "171",
+          "y": "79",
+          "z": "-663"
+        },
+        "price": [
+          {
+            "item": "Ice Barrows Fragment",
+            "quantity": "4"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "128"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Pickaxe T7": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Undergrowth Ruins Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Troms - Undergrowth Ruins",
+        "coords": {
+          "x": "-633",
+          "y": "59",
+          "z": "-878"
+        },
+        "price": [
+          {
+            "item": "Undergrowth Ruins Fragment",
+            "quantity": "5"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "256"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Pickaxe T8": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Decrepit Sewers Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Decrepit Sewers Fragment",
+            "quantity": "6"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "512"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Galleon's Graveyard Dungeon Merchant",
+      "details": {
+        "location": "Ocean - Galleon's Graveyard",
+        "coords": {
+          "x": "-588",
+          "y": "40",
+          "z": "-3553"
+        },
+        "price": [
+          {
+            "item": "Galleon's Graveyard Fragment",
+            "quantity": "6"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "512"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Pickaxe T9": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Lost Sanctuary Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Lost Sanctuary Fragment",
+            "quantity": "7"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "1024"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Infested Pit Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Infested Pit Fragment",
+            "quantity": "7"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "1024"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Rod T10": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Sand-Swept Tomb Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Sand-Swept Tomb Fragments",
+            "quantity": "8"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "2048"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Underworld Crypt Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Underworld Crypt Fragment",
+            "quantity": "8"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "2048"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Rod T11": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Fallen Factory Dungeon Merchant",
+      "details": {
+        "location": "Corkus - Fallen Factory",
+        "coords": {
+          "x": "-1683",
+          "y": "77",
+          "z": "-2614"
+        },
+        "price": [
+          {
+            "item": "Fallen Factory Dungeon Fragment",
+            "quantity": "9"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "4096"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "9"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "4096"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Undergrowth Ruins",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Undergrowth Ruins Fragment",
+            "quantity": "9"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "4096"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Rod T12": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Eldritch Outlook Dungeon Merchant",
+      "details": {
+        "location": "Eldritch Outlook",
+        "price": [
+          {
+            "item": "Eldritch Outlook Fragment",
+            "quantity": "9"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "4096"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Rod T3": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Infested Pit Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Nivla Woods - Infested Pit",
+        "coords": {
+          "x": "-168",
+          "y": "63",
+          "z": "-1837"
+        },
+        "price": [
+          {
+            "item": "Infested Pit Fragment",
+            "quantity": "1"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Decrepit Sewers Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Ragni - Decrepit Sewers",
+        "coords": {
+          "x": "-922",
+          "y": "67",
+          "z": "-1877"
+        },
+        "price": [
+          {
+            "item": "Decrepit Sewers Fragment",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Rod T4": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Underworld Crypt Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Nemract - Underworld Crypt",
+        "coords": {
+          "x": "228",
+          "y": "44",
+          "z": "-1952"
+        },
+        "price": [
+          {
+            "item": "Underworld Crypt Fragment",
+            "quantity": "2"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Lost Sanctuary Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Lost Sanctuary",
+        "coords": {
+          "x": "-263",
+          "y": "62",
+          "z": "-1046"
+        },
+        "price": [
+          {
+            "item": "Lost Sanctuary Fragment",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Rod T5": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Sand-Swept Tomb Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Almuj - Sand-Swept Tomb",
+        "coords": {
+          "x": "1411",
+          "y": "94",
+          "z": "-1838"
+        },
+        "price": [
+          {
+            "item": "Sand-Swept Tomb Fragment",
+            "quantity": "3"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "64"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Rod T6": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Nesaak",
+        "coords": {
+          "x": "171",
+          "y": "79",
+          "z": "-663"
+        },
+        "price": [
+          {
+            "item": "Ice Barrows Fragment",
+            "quantity": "4"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "128"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Rod T7": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Undergrowth Ruins Dungeon Merchant",
+      "details": {
+        "location": "Wynn - Troms - Undergrowth Ruins",
+        "coords": {
+          "x": "-633",
+          "y": "59",
+          "z": "-878"
+        },
+        "price": [
+          {
+            "item": "Undergrowth Ruins Fragment",
+            "quantity": "5"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "256"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Rod T8": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Decrepit Sewers Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Decrepit Sewers Fragment",
+            "quantity": "6"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "512"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Galleon's Graveyard Dungeon Merchant",
+      "details": {
+        "location": "Ocean - Galleon's Graveyard",
+        "coords": {
+          "x": "-588",
+          "y": "40",
+          "z": "-3553"
+        },
+        "price": [
+          {
+            "item": "Galleon's Graveyard Fragment",
+            "quantity": "6"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "512"
+          }
+        ]
+      }
+    }
+  ],
+  "Gathering Rod T9": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Lost Sanctuary Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Lost Sanctuary Fragment",
+            "quantity": "7"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "1024"
+          }
+        ]
+      }
+    },
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Infested Pit Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Infested Pit Fragment",
+            "quantity": "7"
+          },
+          {
+            "item": "Emeralds",
+            "quantity": "1024"
+          }
+        ]
+      }
+    }
+  ],
+  "Gaze from the Snowbank": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ],
+  "Ghoul": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Gigabyte": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Fallen Factory",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Gold Digger": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Lost Sanctuary",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Golden Scarab": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Granite Plate": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Undergrowth Ruins",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Grounder": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Galleon's Graveyard",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Hardcore": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Fallen Factory Dungeon Merchant",
+      "details": {
+        "location": "Fallen Factory, Corkus",
+        "price": [
+          {
+            "item": "Antikythera Supercomputer's Chip",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ],
+  "Hashr Claw": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ],
+  "Heartbreak": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Ice Barrows",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Hearthfire": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Ice Barrows",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Heat Sink": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Fallen Factory",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Hourglass": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Infested Pit Dungeon Merchant",
+      "details": {
+        "location": "Infested Pit, Nivla Forest",
+        "price": [
+          {
+            "item": "Arakadicus' Eye",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Hymn of the Dead": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ],
+  "Iklaj": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Infidel": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Iron Foot": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Ice Barrows",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Jaw Breaker": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Judas": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Jungle Spirit": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Undergrowth Ruins",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Karma": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ],
+  "Kindled Orchid": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Undergrowth Ruins Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Slykaar's Heart",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Knee": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Lion's Pelt": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Lobotomy": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Undergrowth Ruins",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Macabre": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Decrepit Sewers Dungeon Merchant",
+      "details": {
+        "location": "Decrepit Sewers",
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Manna": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Maul": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Megabyte": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Fallen Factory",
+      "details": {
+        "price": [
+          {
+            "item": "Antikythera's Supercomputer Chips",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Miasma": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Molten Greaves": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Undergrowth Ruins",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Mud": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Lost Sanctuary",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ],
+  "Nauticals": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Nest": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Nightmare": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Orange Lily": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Undergrowth Ruins",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Slykaar's Heart",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Ossuary": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Ouragan": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Galleon's Graveyard",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Packet": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Fallen Factory",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ],
+  "Paranoia": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Decript Sewers",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Witherhead's Rib",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Peaceful Rest": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Plague": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Prognosticum": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Pulse Starter": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Pulse Stopper": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Putrid": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Rainbow Sanctuary": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Lost Sanctuary",
+      "details": {
+        "price": [
+          {
+            "item": "Corrupted Garoth's Breath",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Redbeard's Hand Cannon": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Galleon's Graveyard",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Ribcage": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Royal Hydrangea": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Undergrowth Ruins",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Slykaar's Heart",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Rumble": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Galleon's Graveyard",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Rune of Safe Passage": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Sacramentalia": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Sand-Swept Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Hashr's Bones",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Sacrificial": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Undergrowth Ruins Dungeon Merchant",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Salpinx": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Sand-Swept Tomb",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Hashr's Bone",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Salticidae": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Sanies": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ],
+  "Sawtooth": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Fallen Factory",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Scytodidae": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Serpent's Kiss": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Shade": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Ice Barrows",
+      "details": {
+        "price": [
+          {
+            "item": "Runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Sine": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Fallen Factory",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Sketiq": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Skull Breaker": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Sol": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Sorrow": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Spider Ring": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Spinneret": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Springtrap": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ],
+  "Sprout": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Sand-Swept Tomb",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ],
+  "Stale": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Sting": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Stingy": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Styx's Grab": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "The Crossing": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Ice Barrows Dungeon Merchant",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Theorick's Ice Shard",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "The Evolved": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Eldritch Outlook",
+      "details": {
+        "price": [
+          {
+            "item": "The Eye's Pupil",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "The Exploited": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Eldritch Outlook",
+      "details": {
+        "price": [
+          {
+            "item": "The Eye's Pupil",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "The Forsaken": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Eldritch Outlook",
+      "details": {
+        "price": [
+          {
+            "item": "The Eye's Pupil",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "The Nothing": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Eldritch Outlook",
+      "details": {
+        "price": [
+          {
+            "item": "The Eye's Pupil",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "The Watched": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Eldritch Outlook",
+      "details": {
+        "price": [
+          {
+            "item": "The Eye's Pupil",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Thriller": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Underworld Crypt Dungeon Merchant",
+      "details": {
+        "location": "Underworld Crypt",
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "5"
+          }
+        ]
+      }
+    }
+  ],
+  "Thunder Sanctuary": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Lost Sanctuary",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Tophet": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Underworld Crypt",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Tremolo": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Sand-Swept Tomb Dungeon Merchant",
+      "details": {
+        "location": "Sand-Swept Tomb",
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Vanguard": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "Corrupted Arakadicus' Eye",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ],
+  "Vapor": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Ice Barrows",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Vitre": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Lost Sanctuary",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Void": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Wall Breaker": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Water Sanctuary": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Lost Sanctuary",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Web Plate": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Web Spitter": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Infested Pit",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Whirlwind": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Undergrowth Ruins",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Wick": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Fallen Factory",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "6"
+          }
+        ]
+      }
+    }
+  ],
+  "Widow": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Infested Pit",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Arakadicus's Eye",
+            "quantity": "4"
+          }
+        ]
+      }
+    }
+  ],
+  "Witherhead's Talisman": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Decrepit Sewers",
+      "details": {
+        "price": [
+          {
+            "item": "runs",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ],
+  "Writhing Growth": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Eldritch Outlook Dungeon Merchant",
+      "details": {
+        "location": "Eldritch Outlook",
+        "price": [
+          {
+            "item": "The Eye's Pupil",
+            "quantity": "2"
+          }
+        ]
+      }
+    }
+  ],
+  "Yellow Rose": [
+    {
+      "type": "dungeonmerchant",
+      "name": "Corrupted Undergrowth Ruins",
+      "details": {
+        "location": "The Forgery",
+        "price": [
+          {
+            "item": "Corrupted Slykaar's Heart",
+            "quantity": "3"
+          }
+        ]
+      }
+    }
+  ]
+}

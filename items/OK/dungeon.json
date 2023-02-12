@@ -1,0 +1,90 @@
+{
+  "Arakadicus' Body": [
+    {
+      "type": "dungeon",
+      "name": "Infested Pit"
+    }
+  ],
+  "Gale's Sight": [
+    {
+      "type": "dungeon",
+      "name": "Corrupted Lost Sanctuary"
+    },
+    {
+      "type": "dungeon",
+      "name": "Corrupted Underworld Crypt"
+    }
+  ],
+  "Piranha": [
+    {
+      "type": "dungeon",
+      "name": "Undergrowth Ruins"
+    }
+  ],
+  "Ra": [
+    {
+      "type": "dungeon",
+      "name": "Sand-Swept Tomb"
+    }
+  ],
+  "Rat Skull": [
+    {
+      "type": "dungeon",
+      "name": "Decrepit Sewers"
+    }
+  ],
+  "Scorpion Tail": [
+    {
+      "type": "dungeon",
+      "name": "Sand-Swept Tomb"
+    }
+  ],
+  "Silkwrap": [
+    {
+      "type": "dungeon",
+      "name": "Infested Pit"
+    }
+  ],
+  "Spider Bracelet": [
+    {
+      "type": "dungeon",
+      "name": "Infested Pit"
+    }
+  ],
+  "Spider's Eye Pendant": [
+    {
+      "type": "dungeon",
+      "name": "Infested Pit"
+    }
+  ],
+  "Spiderweb String": [
+    {
+      "type": "dungeon",
+      "name": "Infested Pit"
+    }
+  ],
+  "Vertebra": [
+    {
+      "type": "dungeon",
+      "name": "Decrepit Sewers"
+    }
+  ],
+  "Web Spitter": [
+    {
+      "type": "dungeon",
+      "name": "Infested Pit"
+    }
+  ],
+  "Webstring": [
+    {
+      "type": "dungeon",
+      "name": "Infested Pit"
+    }
+  ],
+  "Witherhead's Bow": [
+    {
+      "type": "dungeon",
+      "name": "Decrepit Sewers"
+    }
+  ]
+}

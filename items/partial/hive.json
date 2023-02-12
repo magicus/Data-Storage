@@ -1,0 +1,816 @@
+{
+  "Abyss-Imbued Leggings": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Ambertoise Shell": [
+    {
+      "type": "hive",
+      "name": "Hive Earth Division",
+      "details": {
+        "price": [
+          {
+            "item": "Earth Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Anima-Infused Cuirass": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Anima-Infused Helmet": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Beetle Aegis": [
+    {
+      "type": "hive",
+      "name": "Hive Earth Division",
+      "details": {
+        "price": [
+          {
+            "item": "Earth Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Boreal-Patterned Aegis": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Boreal-Patterned Crown": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Bottled Thunderstorm": [
+    {
+      "type": "hive",
+      "name": "Hive Thunder Division",
+      "details": {
+        "price": [
+          {
+            "item": "Thunder Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Breezehands": [
+    {
+      "type": "hive",
+      "name": "Hive Air Division",
+      "details": {
+        "price": [
+          {
+            "item": "Air Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Chaos-Woven Greaves": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Cinderchain": [
+    {
+      "type": "hive",
+      "name": "Hive Fire Division",
+      "details": {
+        "price": [
+          {
+            "item": "Fire Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Clockwork": [
+    {
+      "type": "hive",
+      "name": "Hive Fire Division",
+      "details": {
+        "price": [
+          {
+            "item": "Fire Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Contrast": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Coral Ring": [
+    {
+      "type": "hive",
+      "name": "Hive Water Division",
+      "details": {
+        "price": [
+          {
+            "item": "Water Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Dupliblaze": [
+    {
+      "type": "hive",
+      "name": "Hive Fire Division",
+      "details": {
+        "price": [
+          {
+            "item": "Fire Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Eden-Blessed Guards": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Elder Oak Roots": [
+    {
+      "type": "hive",
+      "name": "Hive Earth Division",
+      "details": {
+        "price": [
+          {
+            "item": "Earth Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Elysium-Engraved Aegis": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Flashstep": [
+    {
+      "type": "hive",
+      "name": "Hive Air Division",
+      "details": {
+        "price": [
+          {
+            "item": "Air Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gaea-Hewn Boots": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Gale's Freedom": [
+    {
+      "type": "hive",
+      "name": "Hive Air Division",
+      "details": {
+        "price": [
+          {
+            "item": "Air Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Golemlus Core": [
+    {
+      "type": "hive",
+      "name": "Hive Earth Division",
+      "details": {
+        "price": [
+          {
+            "item": "Earth Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Hephaestus-Forged Greaves": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Hephaestus-Forged Sabatons": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Humbark Moccasins": [
+    {
+      "type": "hive",
+      "name": "Hive Earth Division",
+      "details": {
+        "price": [
+          {
+            "item": "Earth Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Infused Hive Bow": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Infused Hive Dagger": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Infused Hive Relik": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Infused Hive Spear": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Infused Hive Wand": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Insulated Plate Mail": [
+    {
+      "type": "hive",
+      "name": "Hive Thunder Division",
+      "details": {
+        "price": [
+          {
+            "item": "Thunder Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Intensity": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Lightning Flash": [
+    {
+      "type": "hive",
+      "name": "Hive Thunder Division",
+      "details": {
+        "price": [
+          {
+            "item": "Thunder Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Mantlewalkers": [
+    {
+      "type": "hive",
+      "name": "Hive Fire Division",
+      "details": {
+        "price": [
+          {
+            "item": "Fire Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Moon Pool Circlet": [
+    {
+      "type": "hive",
+      "name": "Hive Water Division",
+      "details": {
+        "price": [
+          {
+            "item": "Water Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Obsidian-Framed Helmet": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Pride of the Aerie": [
+    {
+      "type": "hive",
+      "name": "Hive Air Division",
+      "details": {
+        "price": [
+          {
+            "item": "Air Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Prowess": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Silt of the Seafloor": [
+    {
+      "type": "hive",
+      "name": "Hive Water Division",
+      "details": {
+        "price": [
+          {
+            "item": "Water Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Soulflare": [
+    {
+      "type": "hive",
+      "name": "Hive Fire Division",
+      "details": {
+        "price": [
+          {
+            "item": "Fire Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Sparkling Visor": [
+    {
+      "type": "hive",
+      "name": "Hive Thunder Division",
+      "details": {
+        "price": [
+          {
+            "item": "Thunder Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Sparkweaver": [
+    {
+      "type": "hive",
+      "name": "Hive Fire Division",
+      "details": {
+        "price": [
+          {
+            "item": "Fire Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Static-Charged Leggings": [
+    {
+      "type": "hive",
+      "name": "Hive Thunder Division",
+      "details": {
+        "price": [
+          {
+            "item": "Thunder Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Stillwater Blue": [
+    {
+      "type": "hive",
+      "name": "Hive Water Division",
+      "details": {
+        "price": [
+          {
+            "item": "Water Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Subur Clip": [
+    {
+      "type": "hive",
+      "name": "Hive Earth Division",
+      "details": {
+        "price": [
+          {
+            "item": "Earth Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Thunderous Step": [
+    {
+      "type": "hive",
+      "name": "Hive Thunder Division",
+      "details": {
+        "price": [
+          {
+            "item": "Thunder Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Trench Scourer": [
+    {
+      "type": "hive",
+      "name": "Hive Water Division",
+      "details": {
+        "price": [
+          {
+            "item": "Water Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Turbine Greaves": [
+    {
+      "type": "hive",
+      "name": "Hive Air Division",
+      "details": {
+        "price": [
+          {
+            "item": "Air Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Twilight-Gilded Cloak": [
+    {
+      "type": "hive",
+      "name": "Hive Master Division",
+      "details": {
+        "price": [
+          {
+            "item": "Master Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Vortex Bracer": [
+    {
+      "type": "hive",
+      "name": "Hive Air Division",
+      "details": {
+        "price": [
+          {
+            "item": "Air Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}
+{
+  "Whitecap Crown": [
+    {
+      "type": "hive",
+      "name": "Hive Water Division",
+      "details": {
+        "price": [
+          {
+            "item": "Water Voucher",
+            "quantity": "1"
+          }
+        ]
+      }
+    }
+  ]
+}

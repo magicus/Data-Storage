@@ -1,0 +1,14 @@
+{
+  "Abrasion": [
+    {
+      "type": "raid",
+      "name": "The Canyon Colossus"
+    }
+  ],
+  "Cacophony": [
+    {
+      "type": "raid",
+      "name": "Orphion's Nexus of Light"
+    }
+  ]
+}

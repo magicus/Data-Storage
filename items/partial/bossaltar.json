@@ -1,0 +1,600 @@
+{
+  "Acidic Solution": [
+    {
+      "type": "bossaltar",
+      "name": "Plague Laboratory"
+    }
+  ]
+}
+{
+  "Adamastor's Faceplate": [
+    {
+      "type": "bossaltar",
+      "name": "Aerie of the Recluse"
+    }
+  ]
+}
+{
+  "Anxiolytic": [
+    {
+      "type": "bossaltar",
+      "name": "Bottomless Pit"
+    }
+  ]
+}
+{
+  "Aqua Vitae": [
+    {
+      "type": "bossaltar",
+      "name": "Plague Laboratory"
+    }
+  ]
+}
+{
+  "Back-Up Plan": [
+    {
+      "type": "bossaltar",
+      "name": "Altar of Sanctification"
+    }
+  ]
+}
+{
+  "Beef Tongue": [
+    {
+      "type": "bossaltar",
+      "name": "Bovine Barn"
+    }
+  ]
+}
+{
+  "Binding Brace": [
+    {
+      "type": "bossaltar",
+      "name": "Prison of Souls"
+    }
+  ]
+}
+{
+  "Black Sulphur": [
+    {
+      "type": "bossaltar",
+      "name": "Sunrise Canyon"
+    }
+  ]
+}
+{
+  "Blade of Shade": [
+    {
+      "type": "bossaltar",
+      "name": "Challenge of the Blades"
+    }
+  ]
+}
+{
+  "Bonder": [
+    {
+      "type": "bossaltar",
+      "name": "The Orange Wybel"
+    }
+  ]
+}
+{
+  "Borange Fluff": [
+    {
+      "type": "bossaltar",
+      "name": "The Orange Wybel"
+    }
+  ]
+}
+{
+  "Braker": [
+    {
+      "type": "bossaltar",
+      "name": "The Orange Wybel"
+    }
+  ]
+}
+{
+  "Breakbore": [
+    {
+      "type": "bossaltar",
+      "name": "Geyser Pit"
+    }
+  ]
+}
+{
+  "Capsid Frame": [
+    {
+      "type": "bossaltar",
+      "name": "Magmastream Core"
+    }
+  ]
+}
+{
+  "Coalescence": [
+    {
+      "type": "bossaltar",
+      "name": "Bottomless Pit"
+    }
+  ]
+}
+{
+  "Constrict Collar": [
+    {
+      "type": "bossaltar",
+      "name": "Prison of Souls"
+    }
+  ]
+}
+{
+  "Corn Husk": [
+    {
+      "type": "bossaltar",
+      "name": "Bovine Barn"
+    }
+  ]
+}
+{
+  "Crossbolt": [
+    {
+      "type": "bossaltar",
+      "name": "Rotten Passage"
+    }
+  ]
+}
+{
+  "Crystal Coil": [
+    {
+      "type": "bossaltar",
+      "name": "Magmastream Core"
+    }
+  ]
+}
+{
+  "Deadeye": [
+    {
+      "type": "bossaltar",
+      "name": "Sunrise Canyon"
+    }
+  ]
+}
+{
+  "Dissociation": [
+    {
+      "type": "bossaltar",
+      "name": "Bottomless Pit"
+    }
+  ]
+}
+{
+  "Dondasch": [
+    {
+      "type": "bossaltar",
+      "name": "Aerie of the Recluse"
+    }
+  ]
+}
+{
+  "Durum's Serenity": [
+    {
+      "type": "bossaltar",
+      "name": "Bovine Barn"
+    }
+  ]
+}
+{
+  "Eidolon": [
+    {
+      "type": "bossaltar",
+      "name": "Aerie of the Recluse"
+    }
+  ]
+}
+{
+  "Empty Casings": [
+    {
+      "type": "bossaltar",
+      "name": "Sunrise Canyon"
+    }
+  ]
+}
+{
+  "Eye of The Beast": [
+    {
+      "type": "bossaltar",
+      "name": "Prison of Souls"
+    }
+  ]
+}
+{
+  "Fragmentation": [
+    {
+      "type": "bossaltar",
+      "name": "Bottomless Pit"
+    }
+  ]
+}
+{
+  "Greenhoof": [
+    {
+      "type": "bossaltar",
+      "name": "Bovine Barn"
+    }
+  ]
+}
+{
+  "Haros' Broken Badge": [
+    {
+      "type": "bossaltar",
+      "name": "Rotten Passage"
+    }
+  ]
+}
+{
+  "Haros' Oar": [
+    {
+      "type": "bossaltar",
+      "name": "Rotten Passage"
+    }
+  ]
+}
+{
+  "Helm Splitter": [
+    {
+      "type": "bossaltar",
+      "name": "Altar of Sanctification"
+    }
+  ]
+}
+{
+  "Kahontsi Ohstyen": [
+    {
+      "type": "bossaltar",
+      "name": "Tribal Sanctuary"
+    }
+  ]
+}
+{
+  "Large Titanium Chunk": [
+    {
+      "type": "bossaltar",
+      "name": "Altar of Sanctification"
+    }
+  ]
+}
+{
+  "Legend Guard's Plate": [
+    {
+      "type": "bossaltar",
+      "name": "Arena of the Legends"
+    }
+  ]
+}
+{
+  "Lower": [
+    {
+      "type": "bossaltar",
+      "name": "The Orange Wybel"
+    }
+  ]
+}
+{
+  "Marius' Prison": [
+    {
+      "type": "bossaltar",
+      "name": "Prison of Souls"
+    }
+  ]
+}
+{
+  "Mixed Jewel Deposit": [
+    {
+      "type": "bossaltar",
+      "name": "Geyser Pit"
+    }
+  ]
+}
+{
+  "Mixed Mineral Deposit": [
+    {
+      "type": "bossaltar",
+      "name": "Geyser Pit"
+    }
+  ]
+}
+{
+  "More-Pearlescent Jewel": [
+    {
+      "type": "bossaltar",
+      "name": "Arena of the Legends"
+    }
+  ]
+}
+{
+  "Nightmare Fuel": [
+    {
+      "type": "bossaltar",
+      "name": "Prison of Souls"
+    }
+  ]
+}
+{
+  "Nona": [
+    {
+      "type": "bossaltar",
+      "name": "Aerie of the Recluse"
+    }
+  ]
+}
+{
+  "Obolus": [
+    {
+      "type": "bossaltar",
+      "name": "Rotten Passage"
+    }
+  ]
+}
+{
+  "Ohonte Kerhite": [
+    {
+      "type": "bossaltar",
+      "name": "Tribal Sanctuary"
+    }
+  ]
+}
+{
+  "Onenya Hronkas": [
+    {
+      "type": "bossaltar",
+      "name": "Tribal Sanctuary"
+    }
+  ]
+}
+{
+  "Panic Zealot": [
+    {
+      "type": "bossaltar",
+      "name": "Bottomless Pit"
+    }
+  ]
+}
+{
+  "Phage Pins": [
+    {
+      "type": "bossaltar",
+      "name": "Magmastream Core"
+    }
+  ]
+}
+{
+  "Plague Mask": [
+    {
+      "type": "bossaltar",
+      "name": "Plague Laboratory"
+    }
+  ]
+}
+{
+  "Plague Staff": [
+    {
+      "type": "bossaltar",
+      "name": "Plague Laboratory"
+    }
+  ]
+}
+{
+  "Powdery Bone": [
+    {
+      "type": "bossaltar",
+      "name": "Rotten Passage"
+    }
+  ]
+}
+{
+  "Purification Bead": [
+    {
+      "type": "bossaltar",
+      "name": "Plague Laboratory"
+    }
+  ]
+}
+{
+  "Quick-Strike Leggings": [
+    {
+      "type": "bossaltar",
+      "name": "Altar of Sanctification"
+    }
+  ]
+}
+{
+  "Redrock Bandanna": [
+    {
+      "type": "bossaltar",
+      "name": "Sunrise Canyon"
+    }
+  ]
+}
+{
+  "Reinforced Leather": [
+    {
+      "type": "bossaltar",
+      "name": "Bovine Barn"
+    }
+  ]
+}
+{
+  "Resistant Strain": [
+    {
+      "type": "bossaltar",
+      "name": "Magmastream Core"
+    }
+  ]
+}
+{
+  "Router's Shield": [
+    {
+      "type": "bossaltar",
+      "name": "Rotten Passage"
+    }
+  ]
+}
+{
+  "Scopaesthesia": [
+    {
+      "type": "bossaltar",
+      "name": "Bottomless Pit"
+    }
+  ]
+}
+{
+  "Scuttling Syenite": [
+    {
+      "type": "bossaltar",
+      "name": "Magmastream Core"
+    }
+  ]
+}
+{
+  "Shackle of Shade": [
+    {
+      "type": "bossaltar",
+      "name": "Challenge of the Blades"
+    }
+  ]
+}
+{
+  "Shackles of the Beast": [
+    {
+      "type": "bossaltar",
+      "name": "Prison of Souls"
+    }
+  ]
+}
+{
+  "Shadestep": [
+    {
+      "type": "bossaltar",
+      "name": "Challenge of the Blades"
+    }
+  ]
+}
+{
+  "Shiny Mineral Deposit": [
+    {
+      "type": "bossaltar",
+      "name": "Geyser Pit"
+    }
+  ]
+}
+{
+  "Slider": [
+    {
+      "type": "bossaltar",
+      "name": "The Orange Wybel"
+    }
+  ]
+}
+{
+  "Spiked Capsule": [
+    {
+      "type": "bossaltar",
+      "name": "Plague Laboratory"
+    }
+  ]
+}
+{
+  "Stave of the Legends": [
+    {
+      "type": "bossaltar",
+      "name": "Arena of the Legends"
+    }
+  ]
+}
+{
+  "Stinger": [
+    {
+      "type": "bossaltar",
+      "name": "The Orange Wybel"
+    }
+  ]
+}
+{
+  "Subsuming Darkness": [
+    {
+      "type": "bossaltar",
+      "name": "Challenge of Blades"
+    }
+  ]
+}
+{
+  "Summa": [
+    {
+      "type": "bossaltar",
+      "name": "Geyser Pit"
+    }
+  ]
+}
+{
+  "Sundown Poncho": [
+    {
+      "type": "bossaltar",
+      "name": "Sunrise Canyon"
+    }
+  ]
+}
+{
+  "Tera": [
+    {
+      "type": "bossaltar",
+      "name": "Geyser Pit"
+    }
+  ]
+}
+{
+  "The Scarecrow's Vest": [
+    {
+      "type": "bossaltar",
+      "name": "Bovine Barn"
+    }
+  ]
+}
+{
+  "Thermal Replication": [
+    {
+      "type": "bossaltar",
+      "name": "Magmastream Core"
+    }
+  ]
+}
+{
+  "Titanium Chunk": [
+    {
+      "type": "bossaltar",
+      "name": "Altar of Sanctification"
+    }
+  ]
+}
+{
+  "Trainer's Pendant": [
+    {
+      "type": "bossaltar",
+      "name": "Arena of the Legends"
+    }
+  ]
+}
+{
+  "Urdar's Stone": [
+    {
+      "type": "bossaltar",
+      "name": "Aerie of the Recluse"
+    }
+  ]
+}
+{
+  "Wriggling Darkness": [
+    {
+      "type": "bossaltar",
+      "name": "Challenge of Blades"
+    }
+  ]
+}
